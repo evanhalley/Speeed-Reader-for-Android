@@ -1,0 +1,1399 @@
+{
+    "direction": "ltr",
+    "id": "user/12741052575449821559/state/com.google/reading-list",
+    "title": "Evan's reading list in Google Reader",
+    "continuation": "CL3S2_Cs9K4C",
+    "self": [
+        {
+            "href": "http://www.google.com/reader/api/0/stream/contents/user/12741052575449821559/state/com.google/reading-list?r=n&c=CMXtquu49K4C&n=40&ck=1332212972526&client=scroll&hl=en"
+        }
+    ],
+    "author": "Evan",
+    "updated": 1332211033,
+    "items": [
+        {
+            "crawlTimeMsec": "1332211033487",
+            "timestampUsec": "1332211033487045",
+            "id": "tag:google.com,2005:reader/item/483b6110aae4c296",
+            "categories": [
+                "user/12741052575449821559/label/Gadget Blogs",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/state/com.google/fresh",
+                "Apple",
+                "Business"
+            ],
+            "title": "Apple Stock Closes Above $600 for the First Time",
+            "published": 1332208803,
+            "updated": 1332208803,
+            "alternate": [
+                {
+                    "href": "http://www.technobuffalo.com/companies/apple/apple-stock-closes-above-600-for-the-first-time/",
+                    "type": "text/html"
+                }
+            ],
+            "content": {
+                "direction": "ltr",
+                "content": "<p><img title=\"Apple share price 03-19-12\" src=\"http://www.technobuffalo.com/wp-content/uploads/2012/03/apple-share-price-03-19-12.png\" alt=\"Apple share price 03-19-12\" width=\"640\" height=\"735\"></p>\n<p>It seems investors took a real shine to shares of Apple today, seeing it close above $600 for the first time in its history.</p>\n<p>Shares of Apple ended the day up 2.65%, or $15.53, to close at $601.10.  This is the first time shares of the Cupertino-based company have closed out the day beyond that benchmark, and it brings it market cap value to $560.45 billion.</p>\n<p>Apple had a double dip of good news today to keep the stock pushing upwards with <a href=\"http://www.technobuffalo.com/companies/apple/apple-remains-focused-on-innovation-as-it-uses-cash-to-reward-investors/\">the announcement of a dividend and share buyback program</a>, along with <a href=\"http://www.technobuffalo.com/companies/apple/apple-ipad-sales-top-3-million-since-friday-march-16th/\">announcing that it has already sold over three million of the new iPad</a>.</p>\n<p>It’s hard to say why this stock has gone to these insane levels like it has.  Looking at a three month graph, the share price has jumped 53.21% and shows no real signs of slowing any time soon.  Just about every analyst has upped their target price to well above $700, so it’s easy to imagine that this trend will continue for some time to come.</p>"
+            },
+            "author": "Sean P. Aune",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://www.technobuffalo.com/feed/",
+                "title": "TechnoBuffalo",
+                "htmlUrl": "http://www.technobuffalo.com"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332210970309",
+            "timestampUsec": "1332210970309737",
+            "id": "tag:google.com,2005:reader/item/b5ea652348daaf8f",
+            "categories": [
+                "user/12741052575449821559/label/News",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/state/com.google/fresh"
+            ],
+            "title": "Bank loan scheme targets business",
+            "published": 1332201681,
+            "updated": 1332201681,
+            "alternate": [
+                {
+                    "href": "http://www.bbc.co.uk/go/rss/int/news/-/news/business-17437361",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "A £20bn government scheme to try to boost bank lending to small and medium-sized businesses is launched by the chancellor."
+            },
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml",
+                "title": "BBC News - Home",
+                "htmlUrl": "http://www.bbc.co.uk/go/rss/int/news/-/news/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332210934501",
+            "timestampUsec": "1332210934501741",
+            "id": "tag:google.com,2005:reader/item/1259c41e319f1e6f",
+            "categories": [
+                "user/12741052575449821559/label/Gaming",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/state/com.google/fresh",
+                "bourgeois",
+                "desi-leaves-town",
+                "frog",
+                "Hisaoki-Nishida",
+                "ios",
+                "ipad",
+                "iphone",
+                "Jakob-Haglof",
+                "joystiq-indie-pitch",
+                "literature",
+                "mac",
+                "Maxim-Schoemaker",
+                "mobile",
+                "Nicholas-Kratochvil",
+                "Pajamahouse",
+                "pc",
+                "Riley-Martin"
+            ],
+            "title": "The Joystiq Indie Pitch: Desi Leaves Town",
+            "published": 1332214200,
+            "updated": 1332214200,
+            "alternate": [
+                {
+                    "href": "http://www.joystiq.com/2012/03/19/the-joystiq-indie-pitch-desi-leaves-town/",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "<div style=\"text-align:left\"> <small><font color=\"#808080\">Indie developers are the starving artists of the video-game world, often brilliant and innovative, but also misunderstood, underfunded and more prone to writing free-form poetry on their LiveJournals. We at Joystiq believe no one deserves to starve, and many indie developers are entitled to a fridge full of tasty, fulfilling media coverage, right here. This week, Jakob Haglof of Pajamahouse gets literally literary with his iOS title <a href=\"http://www.desileavestown.com/\"><em>Desi Leaves Town</em></a>, which follows the life of an eccentric, rich frog in the 1880s. As you do.</font></small></div><hr size=\"2\" style=\"padding-left:5px\" width=\"100%\"><div style=\"text-align:center\"></div><div style=\"text-align:center\"> <iframe frameborder=\"0\" height=\"299\" src=\"http://www.youtube.com/embed/XNddevK_7hc\" width=\"530\"></iframe></div><div style=\"text-align:center\"> <a href=\"http://www.joystiq.com/2012/03/19/the-joystiq-indie-pitch-desi-leaves-town/\"><img src=\"http://www.blogcdn.com/www.joystiq.com/media/2012/03/desi.jpg\" style=\"border-top-width:1px;border-right-width:1px;border-bottom-width:1px;border-left-width:1px;border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;margin-left:4px;margin-right:4px;margin-top:4px;margin-bottom:4px\"></a></div><br><strong>What's your game called and what's it about?</strong><br><br>Our game is called<em> Desi Leaves Town </em>and it stars an eccentric frog that gets himself into all sorts of situations in his attempts to stave off boredom.<br><br>Desi is an escapist who blames the world around him for his predicament but everything is pretty much his fault.<br><br>The game's story is told through cartoon segments, puzzles and action challenges. You do all sorts of things like assembling the perfect chair to knocking kids out with bread.<br><br><strong>What inspired you to make <em>Desi Leaves Town</em>?</strong><br><br><em>Desi Leaves Town</em> came out of a conversation Nicholas Kratochvil -- the game's writer -- and I had at a bar. I had this idea for a mini game with a pompous frog that would berate you if you sat him in the wrong chair.<br><br>Nicholas said it reminded him of <em>Against Nature</em>'s main character Jean Des Esseintes and maybe we could do an interactive adaptation of the novel instead of a mini game. And the next day we started working on it.<p><a href=\"http://www.joystiq.com/2012/03/19/the-joystiq-indie-pitch-desi-leaves-town/\" rel=\"bookmark\">Continue reading <em>The Joystiq Indie Pitch: Desi Leaves Town</em></a></p><p style=\"padding:5px;background:#ffffcc;border:1px solid #ffff99;clear:both\"><a href=\"http://www.joystiq.com\"><img src=\"http://www.blogsmithmedia.com/www.joystiq.com/media/feedlogo.gif\" alt=\"Joystiq\" style=\"float:left;padding:0 5px 5px 0\"></a><a href=\"http://www.joystiq.com/2012/03/19/the-joystiq-indie-pitch-desi-leaves-town/\">The Joystiq Indie Pitch: Desi Leaves Town</a> originally appeared on <a href=\"http://www.joystiq.com\">Joystiq</a> on Mon, 19 Mar 2012 22:30:00 EST.  Please see our <a href=\"http://www.weblogsinc.com/feed-terms/\">terms for use of feeds</a>.<br style=\"clear:both\"></p><h6 style=\"clear:both;padding:8px 0 0 0;height:2px;font-size:1px;border:0;margin:0;padding:0\"></h6><a href=\"http://www.joystiq.com/2012/03/19/the-joystiq-indie-pitch-desi-leaves-town/\" rel=\"bookmark\" title=\"Permanent link to this entry\">Permalink</a> | <a href=\"http://www.joystiq.com/forward/20196404/\" title=\"Send this entry to a friend via email\">Email this</a> | <a href=\"http://www.joystiq.com/2012/03/19/the-joystiq-indie-pitch-desi-leaves-town/#comments\" title=\"View reader comments on this entry\">Comments</a>"
+            },
+            "author": "Jessica Conditt",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://www.joystiq.com/rss.xml",
+                "title": "Joystiq",
+                "htmlUrl": "http://www.joystiq.com"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332210700544",
+            "timestampUsec": "1332210700544235",
+            "id": "tag:google.com,2005:reader/item/121666f435e17919",
+            "categories": [
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/label/Hip Hop",
+                "user/12741052575449821559/state/com.google/fresh",
+                "Video",
+                "tito lopez"
+            ],
+            "title": "Tito Lopez – Mama Proud (Video)",
+            "published": 1332210323,
+            "updated": 1332210323,
+            "alternate": [
+                {
+                    "href": "http://feedproxy.google.com/~r/2dopeboyz/~3/TSSLGuclLZs/",
+                    "type": "text/html"
+                }
+            ],
+            "content": {
+                "direction": "ltr",
+                "content": "<p><br>\n<small>Directed by Michael Mihail</small></p>\n<p>The latest set of visuals from <em><a href=\"http://www.2dopeboyz.com/2012/02/27/tito-lopez-the-lost-files-of-tito-lopez-reloaded-mixtape/\">The Lost Files Of Tito Lopez: Reloaded</a>.</em></p>\n<p><strong>PREVIOUS</strong>: <a href=\"http://www.2dopeboyz.com/2012/03/13/tito-lopez-mama-proud/\">Tito Lopez – Mama Proud</a></p>"
+            },
+            "author": "Meka",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://2dopeboyz.okayplayer.com/feed/",
+                "title": "2dopeboyz",
+                "htmlUrl": "http://www.2dopeboyz.com"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332210632813",
+            "timestampUsec": "1332210632813674",
+            "id": "tag:google.com,2005:reader/item/9498a257befd5f2c",
+            "categories": [
+                "user/12741052575449821559/label/News",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/state/com.google/fresh"
+            ],
+            "title": "Huge manhunt after French attacks",
+            "published": 1332210092,
+            "updated": 1332210092,
+            "alternate": [
+                {
+                    "href": "http://www.bbc.co.uk/go/rss/int/news/-/news/world-europe-17441244",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "France mounts a large-scale manhunt over deadly shootings at a Jewish school linked with the killings of soldiers, as marchers honour the victims."
+            },
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml",
+                "title": "BBC News - Home",
+                "htmlUrl": "http://www.bbc.co.uk/go/rss/int/news/-/news/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332210240350",
+            "timestampUsec": "1332210240350077",
+            "id": "tag:google.com,2005:reader/item/fea6c1b39113a8df",
+            "categories": [
+                "user/12741052575449821559/label/Sports",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/label/15 Best",
+                "user/12741052575449821559/state/com.google/fresh"
+            ],
+            "title": "VIDEO: Jeff Teague Ends Hawks-Celtics Game In Fitting Fashion",
+            "published": 1332210226,
+            "updated": 1332210226,
+            "alternate": [
+                {
+                    "href": "http://www.sbnation.com/nba/2012/3/19/2886306/jeff-teague-airball-video-hawks-celtics",
+                    "type": "text/html"
+                }
+            ],
+            "content": {
+                "direction": "ltr",
+                "content": "<p>If you were watching the <a href=\"http://www.sbnation.com/nba/teams/atlanta-hawks\">Atlanta Hawks</a> and <a href=\"http://www.sbnation.com/nba/teams/boston-celtics\">Boston Celtics</a> play \"basketball\" on Monday, may we ask why? It was bad. Like, really bad -- with minimal scoring, slow-moving players and some ugly misses. But it did give us the most fitting ending possible, so that's a positive in all this.</p>\n<p><a href=\"http://www.sbnation.com/nba/players/71919/jeff-teague\">Jeff Teague</a> had a chance to tie the game with time winding down, perhaps forcing an unwanted overtime session. And the shot to tie was open -- incredibly wide open. He was able to get set on the wing beyond the arc and launch what would've been the game-tying three.</p>\n<p>You can probably guess what happened next.</p>\n\n<p>\n</p>\n<p>From the first angle, it looks kind of like the shot is on line. Then we get a look at the second angle, from behind the play. That thing wasn't anywhere near the rim. It wasn't in the same area code. It might be one of the worst airballs you'll ever see (research project!).</p>"
+            },
+            "author": "Brian Floyd",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://feeds.sbnation.com/rss/current",
+                "title": "SBNation.com -  All Posts",
+                "htmlUrl": "http://www.sbnation.com/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332210229854",
+            "timestampUsec": "1332210229854494",
+            "id": "tag:google.com,2005:reader/item/ba892d7afe0d240b",
+            "categories": [
+                "user/12741052575449821559/label/News",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/state/com.google/fresh",
+                "topNews"
+            ],
+            "title": "NY Mets owners settle Madoff case, avoid trial",
+            "published": 1332209938,
+            "updated": 1332209938,
+            "alternate": [
+                {
+                    "href": "http://feeds.reuters.com/~r/reuters/topNews/~3/46J7ev-qCLY/us-madoff-mets-idUSBRE82I0HI20120320",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "NEW YORK (Reuters) - The owners of the New York Mets agreed to pay $162 million to settle a lawsuit by the trustee seeking money for the victims of Bernard Madoff's fraud, a deal that eases pressure on the owners of the cash-strapped baseball team.<div>\n<a href=\"http://feeds.reuters.com/~ff/reuters/topNews?a=46J7ev-qCLY:6N439StG4dI:yIl2AUoC8zA\"><img src=\"http://feeds.feedburner.com/~ff/reuters/topNews?d=yIl2AUoC8zA\" border=\"0\"></a> <a href=\"http://feeds.reuters.com/~ff/reuters/topNews?a=46J7ev-qCLY:6N439StG4dI:V_sGLiPBpWU\"><img src=\"http://feeds.feedburner.com/~ff/reuters/topNews?i=46J7ev-qCLY:6N439StG4dI:V_sGLiPBpWU\" border=\"0\"></a> <a href=\"http://feeds.reuters.com/~ff/reuters/topNews?a=46J7ev-qCLY:6N439StG4dI:-BTjWOF_DHI\"><img src=\"http://feeds.feedburner.com/~ff/reuters/topNews?i=46J7ev-qCLY:6N439StG4dI:-BTjWOF_DHI\" border=\"0\"></a>\n</div><img src=\"http://feeds.feedburner.com/~r/reuters/topNews/~4/46J7ev-qCLY\" height=\"1\" width=\"1\">"
+            },
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://feeds.reuters.com/reuters/topNews?irpc=69",
+                "title": "Reuters: Top News",
+                "htmlUrl": "http://www.reuters.com"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332209906712",
+            "timestampUsec": "1332209906712433",
+            "id": "tag:google.com,2005:reader/item/fb308d4f7715392a",
+            "categories": [
+                "user/12741052575449821559/label/Gadget Blogs",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/state/com.google/fresh",
+                "Photography",
+                "Cameras",
+                "Gorillapod",
+                "Mounts",
+                "Nasty Clamp"
+            ],
+            "title": "Nasty Clamps Grab What Gorillas Can't [Photography]",
+            "published": 1332208816,
+            "updated": 1332208816,
+            "alternate": [
+                {
+                    "href": "http://feeds.gawker.com/~r/gizmodo/full/~3/d_HjexPltyw/nasty-clamps-grab-what-gorillas-cant",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "<div style=\"float:left;padding-right:10px\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div><a title=\"Click here to read Nasty Clamps Grab What Gorillas Can&#39;t\" href=\"http://gizmodo.com/5894709/nasty-clamps-grab-what-gorillas-cant\">\n\t\t\t\t\t\t<img style=\"border-color:#b3b3b3;border-width:0 1px 1px;border-style:none solid solid\" height=\"120\" width=\"190\" title=\"Click here to read Nasty Clamps Grab What Gorillas Can&#39;t\" alt=\"Click here to read Nasty Clamps Grab What Gorillas Can&#39;t\" src=\"http://img.gawkerassets.com/img/17gyxdq62sj0xjpg/original.jpg\">\n\t\t\t\t\t\t\t\t\t\t\t</a></div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\tMy <a href=\"http://gizmodo.com/5887333/squid+inspired-camera-mount-sucks-in-the-best-possible-way\">Gorillapod</a> can grab onto just about anything—provided it&#39;s round, preferably magnetic, or made of glass. That limits the places I can actually stick it. The Nasty Clamps however are the Bizzaro Gorillapod—attaching to tables, shelves, and anything else with an edge.\t\t\t\t<a href=\"http://gizmodo.com/5894709/nasty-clamps-grab-what-gorillas-cant\" title=\"Click here to read more about Nasty Clamps Grab What Gorillas Can&#39;t [Photography]\">More »</a>\n\t\t\t\t<br style=\"clear:both\">\n\t\t\t<br style=\"clear:both\">\n<br style=\"clear:both\">\n<a href=\"http://ads.pheedo.com/click.phdo?s=3126342997ab6ec2cfd79807bd4c2012&amp;p=1\"><img alt=\"\" style=\"border:0\" border=\"0\" src=\"http://ads.pheedo.com/img.phdo?s=3126342997ab6ec2cfd79807bd4c2012&amp;p=1\"></a>\n<img alt=\"\" height=\"0\" width=\"0\" border=\"0\" src=\"http://tags.bluekai.com/site/5148\"><img alt=\"\" height=\"0\" width=\"0\" border=\"0\" src=\"http://insight.adsrvr.org/track/evnt/?ct=0:dupdmqp&amp;adv=wouzn4v&amp;fmt=3\"><div>\n<a href=\"http://feeds.gawker.com/~ff/gizmodo/full?a=d_HjexPltyw:dxNb4ZxL4RA:H0mrP-F8Qgo\"><img src=\"http://feeds.feedburner.com/~ff/gizmodo/full?d=H0mrP-F8Qgo\" border=\"0\"></a> <a href=\"http://feeds.gawker.com/~ff/gizmodo/full?a=d_HjexPltyw:dxNb4ZxL4RA:yIl2AUoC8zA\"><img src=\"http://feeds.feedburner.com/~ff/gizmodo/full?d=yIl2AUoC8zA\" border=\"0\"></a> <a href=\"http://feeds.gawker.com/~ff/gizmodo/full?a=d_HjexPltyw:dxNb4ZxL4RA:D7DqB2pKExk\"><img src=\"http://feeds.feedburner.com/~ff/gizmodo/full?i=d_HjexPltyw:dxNb4ZxL4RA:D7DqB2pKExk\" border=\"0\"></a> <a href=\"http://feeds.gawker.com/~ff/gizmodo/full?a=d_HjexPltyw:dxNb4ZxL4RA:V_sGLiPBpWU\"><img src=\"http://feeds.feedburner.com/~ff/gizmodo/full?i=d_HjexPltyw:dxNb4ZxL4RA:V_sGLiPBpWU\" border=\"0\"></a>\n</div><img src=\"http://feeds.feedburner.com/~r/gizmodo/full/~4/d_HjexPltyw\" height=\"1\" width=\"1\">"
+            },
+            "author": "Andrew Tarantola",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://gizmodo.com/index.xml",
+                "title": "Gizmodo",
+                "htmlUrl": "http://gizmodo.com"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332209795820",
+            "timestampUsec": "1332209795820426",
+            "id": "tag:google.com,2005:reader/item/c10c72c3d5fc98ff",
+            "categories": [
+                "user/12741052575449821559/label/Gadget Blogs",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/state/com.google/fresh",
+                "hardhack"
+            ],
+            "title": "iFixit&#39;s Kyle Wiens On the War On DIY Electronics",
+            "published": 1332209700,
+            "updated": 1332209700,
+            "alternate": [
+                {
+                    "href": "http://rss.slashdot.org/~r/Slashdot/slashdot/~3/GvP_-4r6Xeo/ifixits-kyle-wiens-on-the-war-on-diy-electronics",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "<p><a href=\"http://feedads.g.doubleclick.net/~at/mlJsz1rs5bFX36baHk7QzVNlVas/0/da\"><img src=\"http://feedads.g.doubleclick.net/~at/mlJsz1rs5bFX36baHk7QzVNlVas/0/di\" border=\"0\" ismap></a><br>\n<a href=\"http://feedads.g.doubleclick.net/~at/mlJsz1rs5bFX36baHk7QzVNlVas/1/da\"><img src=\"http://feedads.g.doubleclick.net/~at/mlJsz1rs5bFX36baHk7QzVNlVas/1/di\" border=\"0\" ismap></a></p>pigrabbitbear writes with an excerpt from an article at Motherboardv: \"Anyone planning on buying a new iPad should know what they're getting themselves into by now. In recent years, Apple and other hardware manufacturers have made it liquid-crystal clear that they're not fond of the idea that customers can tear open and fix products without the help of licensed repair specialists. Even if it's as easy as ordering a part online and following a few instructions gleaned from a Google search, hardware companies generally seem to prefer we keep the hood closed. It should not be surprising, then, that the latest version of Apple's much-desired tablet has one 'killer' feature that's finally getting the attention it deserves: A design that stops you from getting inside of it.\"<p><div>\n<a href=\"http://twitter.com/home?status=iFixit&#39;s+Kyle+Wiens+On+the+War+On+DIY+Electronics%3A+http%3A%2F%2Fbit.ly%2FGzCuCN\"><img src=\"http://a.fsdn.com/sd/twitter_icon_large.png\"></a>\n<a href=\"http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F12%2F03%2F20%2F0115228%2Fifixits-kyle-wiens-on-the-war-on-diy-electronics%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook\"><img src=\"http://a.fsdn.com/sd/facebook_icon_large.png\"></a>\n\n<a href=\"http://plus.google.com/share?url=http://hardware.slashdot.org/story/12/03/20/0115228/ifixits-kyle-wiens-on-the-war-on-diy-electronics?utm_source=slashdot&amp;utm_medium=googleplus\"><img src=\"http://www.gstatic.com/images/icons/gplus-16.png\" alt=\"Share on Google+\"></a>                                                                                                                                                                              \n\n\n\n</div></p><p><a href=\"http://hardware.slashdot.org/story/12/03/20/0115228/ifixits-kyle-wiens-on-the-war-on-diy-electronics?utm_source=rss1.0moreanon&amp;utm_medium=feed\">Read more of this story</a> at Slashdot.</p><iframe src=\"http://slashdot.org/slashdot-it.pl?op=discuss&amp;id=2735141&amp;smallembed=1\" style=\"height:300px;width:100%;border:none\"></iframe><img src=\"http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/GvP_-4r6Xeo\" height=\"1\" width=\"1\">"
+            },
+            "author": "Unknown Lamer",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://rss.slashdot.org/Slashdot/slashdot",
+                "title": "Slashdot",
+                "htmlUrl": "http://slashdot.org/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332209772711",
+            "timestampUsec": "1332209772711681",
+            "id": "tag:google.com,2005:reader/item/c627d17208756889",
+            "categories": [
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/label/Hip Hop",
+                "user/12741052575449821559/state/com.google/fresh",
+                "Video",
+                "kendrick lamar"
+            ],
+            "title": "Kendrick Lamar – Hol’ Up Live (Video)",
+            "published": 1332207855,
+            "updated": 1332207855,
+            "alternate": [
+                {
+                    "href": "http://feedproxy.google.com/~r/2dopeboyz/~3/D3ba_OJCDiM/",
+                    "type": "text/html"
+                }
+            ],
+            "content": {
+                "direction": "ltr",
+                "content": "<p> </p>\n<p>Camovement caught K. Dot at both SXSW’s Fader Fort and The Vibe House performing his <em>Section.80</em> cut.</p>\n<p><strong>PREVIOUS</strong>: <a href=\"http://www.2dopeboyz.com/2012/03/19/kendrick-lamar-debuts-the-neptunes-produced-track-at-sxsw-video/\">Kendrick Lamar Debuts The Neptunes Produced Track at SXSW (Video)</a></p>"
+            },
+            "author": "Meka",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://2dopeboyz.okayplayer.com/feed/",
+                "title": "2dopeboyz",
+                "htmlUrl": "http://www.2dopeboyz.com"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332209772711",
+            "timestampUsec": "1332209772711479",
+            "id": "tag:google.com,2005:reader/item/a452f5b730ce4ffe",
+            "categories": [
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/label/Hip Hop",
+                "user/12741052575449821559/state/com.google/fresh",
+                "Video",
+                "lil wayne",
+                "tyga"
+            ],
+            "title": "Tyga – Faded f. Lil Wayne (Video)",
+            "published": 1332207313,
+            "updated": 1332207313,
+            "alternate": [
+                {
+                    "href": "http://feedproxy.google.com/~r/2dopeboyz/~3/k5qbXiTspYg/",
+                    "type": "text/html"
+                }
+            ],
+            "content": {
+                "direction": "ltr",
+                "content": "<p><br>\n<small>Directed by Colin Tilley</small></p>\n<p>This weird ass shit… is Tyga’s album in Best Buy yet?</p>\n<p><strong>RELATED</strong>: <a href=\"http://www.2dopeboyz.com/2012/03/05/travis-porter-ayy-ladies-f-tyga-video/\">Travis Porter – Ayy Ladies f. Tyga (Video)</a></p>"
+            },
+            "author": "Meka",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://2dopeboyz.okayplayer.com/feed/",
+                "title": "2dopeboyz",
+                "htmlUrl": "http://www.2dopeboyz.com"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332209430127",
+            "timestampUsec": "1332209430127639",
+            "id": "tag:google.com,2005:reader/item/5452ba4fcefbb0ff",
+            "categories": [
+                "user/12741052575449821559/label/Gadget Blogs",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/state/com.google/fresh",
+                "Windows Phone"
+            ],
+            "title": "More Sources Claim Sprint Qualcomm S4 LTE WP8 Phone This Year",
+            "published": 1332199623,
+            "updated": 1332199623,
+            "alternate": [
+                {
+                    "href": "http://feedproxy.google.com/~r/pocketnow/~3/3qMqiiZVr4Q/more-sources-claim-sprint-qualcomm-s4-lte-wp8-phone-for-this-year",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "We've been talking a lot about chipsets today, with Samsung and its Exynos SoCs really taking the spotlight. That trend's not about to stop for the moment, though our attention now turns to some other silicon, on the arrival of rumors concerning Sprint and its hopes for an LTE Windows Phone 8 handset.    Late last month, we took a look at a couple ... <a href=\"http://pocketnow.com/windows-phone/more-sources-claim-sprint-qualcomm-s4-lte-wp8-phone-for-this-year\">Read More</a>\n          <p>\n            <b>Related Posts</b>\n          </p>\n          <ul>      <li style=\"float:left;width:45%;background-color:#ebebeb;border:1px solid #cccccc;margin:5px 10px 5px 0px;list-style-type:none;padding:4px\">\n        <a href=\"http://pocketnow.com/iphone/sprint-memo-instructs-employees-to-not-speculate-on-iphone-5\"><img style=\"float:left;margin:0px 5px 5px 0px\" src=\"http://cdn.pocketnow.com/scale/80/60/portal/news/0000018621//iPhonemum.jpg\" width=\"80\" height=\"60\" alt=\"\"></a>\n        <a href=\"http://pocketnow.com/iphone/sprint-memo-instructs-employees-to-not-speculate-on-iphone-5\">Sprint Memo Instructs Employees To Not Speculate On iPhone 5</a>\n        <div>by Anton D. Nagy | 29-Aug-11</div>\n        <div style=\"clear:both\"></div>\n      </li>      <li style=\"float:left;width:45%;background-color:#ebebeb;border:1px solid #cccccc;margin:5px 10px 5px 0px;list-style-type:none;padding:4px\">\n        <a href=\"http://pocketnow.com/android/sprint-memo-talks-about-carrier-iq\"><img style=\"float:left;margin:0px 5px 5px 0px\" src=\"http://cdn.pocketnow.com/scale/80/60/portal/news/0000020380//SprintCarrierIQ.jpg\" width=\"80\" height=\"60\" alt=\"\"></a>\n        <a href=\"http://pocketnow.com/android/sprint-memo-talks-about-carrier-iq\">Sprint Memo Talks About Carrier IQ And Its Usage</a>\n        <div>by Anton D. Nagy | 6-Dec-11</div>\n        <div style=\"clear:both\"></div>\n      </li>      <li style=\"float:left;width:45%;background-color:#ebebeb;border:1px solid #cccccc;margin:5px 10px 5px 0px;list-style-type:none;padding:4px\">\n        <a href=\"http://pocketnow.com/android/sprint-will-offer-bogo-deal-on-samsung-conquer-4g-starting-01-08\"><img style=\"float:left;margin:0px 5px 5px 0px\" src=\"http://cdn.pocketnow.com/scale/80/60/portal/news/0000020812//conquerBOGOfinal.png\" width=\"80\" height=\"60\" alt=\"\"></a>\n        <a href=\"http://pocketnow.com/android/sprint-will-offer-bogo-deal-on-samsung-conquer-4g-starting-01-08\">Sprint Will Offer BOGO Deal on Samsung Conquer 4G Starting 01/08</a>\n        <div>by Anton D. Nagy | 31-Dec-11</div>\n        <div style=\"clear:both\"></div>\n      </li>      <li style=\"float:left;width:45%;background-color:#ebebeb;border:1px solid #cccccc;margin:5px 10px 5px 0px;list-style-type:none;padding:4px\">\n        <a href=\"http://pocketnow.com/android/sprint-nexus-s-4g-update-delayed-to-july-18\"><img style=\"float:left;margin:0px 5px 5px 0px\" src=\"http://cdn.pocketnow.com/scale/80/60/portal/news/0000017805//NS4G_hold.jpg\" width=\"80\" height=\"60\" alt=\"\"></a>\n        <a href=\"http://pocketnow.com/android/sprint-nexus-s-4g-update-delayed-to-july-18\">Sprint Nexus S 4G Update Delayed to July 18?</a>\n        <div>by Anton D. Nagy | 15-Jul-11</div>\n        <div style=\"clear:both\"></div>\n      </li></ul><div style=\"clear:both\"></div>\n\n          <p>\n                <a href=\"http://pocketnow.com/windows-phone/more-sources-claim-sprint-qualcomm-s4-lte-wp8-phone-for-this-year#disqus_thread\">0 Comments</a>\n          </p><img src=\"http://feeds.feedburner.com/~r/pocketnow/~4/3qMqiiZVr4Q\" height=\"1\" width=\"1\">"
+            },
+            "author": "Stephen Schenck",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://feeds.feedburner.com/pocketnow",
+                "title": "pocketnow.com",
+                "htmlUrl": "http://pocketnow.com/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332209430127",
+            "timestampUsec": "1332209430127407",
+            "id": "tag:google.com,2005:reader/item/b60640dc0dd68be9",
+            "categories": [
+                "user/12741052575449821559/label/Gadget Blogs",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/state/com.google/fresh",
+                "Smartphone News"
+            ],
+            "title": "Leaked Slide Details Samsung Exynos 5 Specs",
+            "published": 1332197865,
+            "updated": 1332197865,
+            "alternate": [
+                {
+                    "href": "http://feedproxy.google.com/~r/pocketnow/~3/5dCgmZs-l1A/leaked-slide-details-samsung-exynos-5-specs",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "We're still learning about the capabilities of Samsung's Exynos 4 chips, as evidenced earlier today when we talked about the revelation that Samsung will be fabricating components with on-board LTE support. Even with many of those chips still in our future, Samsung's planning its processor strategy even further down the line. A leaked slide out ... <a href=\"http://pocketnow.com/smartphone-news/leaked-slide-details-samsung-exynos-5-specs\">Read More</a>\n          <p>\n            <b>Related Posts</b>\n          </p>\n          <ul>      <li style=\"float:left;width:45%;background-color:#ebebeb;border:1px solid #cccccc;margin:5px 10px 5px 0px;list-style-type:none;padding:4px\">\n        <a href=\"http://pocketnow.com/android/samsung-sharing-116-inch-2ghz-exynos-5250-powered-tablet-at-mwc\"><img style=\"float:left;margin:0px 5px 5px 0px\" src=\"http://cdn.pocketnow.com/scale/80/60/portal/news/0000021290//samsung-sign.JPG\" width=\"80\" height=\"60\" alt=\"\"></a>\n        <a href=\"http://pocketnow.com/android/samsung-sharing-116-inch-2ghz-exynos-5250-powered-tablet-at-mwc\">Samsung Sharing 11.6-Inch 2GHz Exynos 5250 Tablet at MWC?</a>\n        <div>by Stephen Schenck | 27-Jan-12</div>\n        <div style=\"clear:both\"></div>\n      </li>      <li style=\"float:left;width:45%;background-color:#ebebeb;border:1px solid #cccccc;margin:5px 10px 5px 0px;list-style-type:none;padding:4px\">\n        <a href=\"http://pocketnow.com/smartphone-news/lg-licenses-arm-cortex-a15-mpcore-cortex-a9-mpcore-processors\"><img style=\"float:left;margin:0px 5px 5px 0px\" src=\"http://cdn.pocketnow.com/scale/80/60/portal/news/0000016294//armcortexa15.jpg\" width=\"80\" height=\"60\" alt=\"\"></a>\n        <a href=\"http://pocketnow.com/smartphone-news/lg-licenses-arm-cortex-a15-mpcore-cortex-a9-mpcore-processors\">LG Licenses ARM Cortex-A15 MPCore, Cortex-A9 MPCore Processors</a>\n        <div>by Anton D. Nagy | 26-Apr-11</div>\n        <div style=\"clear:both\"></div>\n      </li>      <li style=\"float:left;width:45%;background-color:#ebebeb;border:1px solid #cccccc;margin:5px 10px 5px 0px;list-style-type:none;padding:4px\">\n        <a href=\"http://pocketnow.com/smartphone-news/samsung-readying-dual-core-2ghz-exynos-5250-chips-for-tablets\"><img style=\"float:left;margin:0px 5px 5px 0px\" src=\"http://cdn.pocketnow.com/scale/80/60/portal/news/0000021284//exynos-5250.jpg\" width=\"80\" height=\"60\" alt=\"\"></a>\n        <a href=\"http://pocketnow.com/smartphone-news/samsung-readying-dual-core-2ghz-exynos-5250-chips-for-tablets\">Samsung Readying Dual-Core 2GHz Exynos 5250 Chips for Tablets</a>\n        <div>by Stephen Schenck | 27-Jan-12</div>\n        <div style=\"clear:both\"></div>\n      </li>      <li style=\"float:left;width:45%;background-color:#ebebeb;border:1px solid #cccccc;margin:5px 10px 5px 0px;list-style-type:none;padding:4px\">\n        <a href=\"http://pocketnow.com/android/samsung-preparing-2ghz-quad-core-exynos-5450-soc\"><img style=\"float:left;margin:0px 5px 5px 0px\" src=\"http://cdn.pocketnow.com/scale/80/60/portal/news/0000021378//SamsungExynos.jpg\" width=\"80\" height=\"60\" alt=\"\"></a>\n        <a href=\"http://pocketnow.com/android/samsung-preparing-2ghz-quad-core-exynos-5450-soc\">Samsung Preparing 2GHz Quad-Core Exynos 5450 SoC</a>\n        <div>by Anton D. Nagy | 2-Feb-12</div>\n        <div style=\"clear:both\"></div>\n      </li></ul><div style=\"clear:both\"></div>\n\n          <p>\n                <a href=\"http://pocketnow.com/smartphone-news/leaked-slide-details-samsung-exynos-5-specs#disqus_thread\">0 Comments</a>\n          </p><img src=\"http://feeds.feedburner.com/~r/pocketnow/~4/5dCgmZs-l1A\" height=\"1\" width=\"1\">"
+            },
+            "author": "Stephen Schenck",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://feeds.feedburner.com/pocketnow",
+                "title": "pocketnow.com",
+                "htmlUrl": "http://pocketnow.com/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332209430126",
+            "timestampUsec": "1332209430126968",
+            "id": "tag:google.com,2005:reader/item/4dce837feda4dd32",
+            "categories": [
+                "user/12741052575449821559/label/Gadget Blogs",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/state/com.google/fresh",
+                "Android"
+            ],
+            "title": "HTC Droid Incredible 4G Benchmarks Offer Hardware Insight",
+            "published": 1332188199,
+            "updated": 1332188199,
+            "alternate": [
+                {
+                    "href": "http://feedproxy.google.com/~r/pocketnow/~3/Gkoj2TkuL3Q/htc-incredible-4g-benchmarks-offer-hardware-insight",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "Back near the start of February, we looked at an unknown HTC Android with a very Incredible-looking design; at the time, we wondered if the phone might arrive as the Droid Incredible 4G on Verizon. This month, the name showed-up in a leaked Verizon roadmap, claiming the phone will arrive on April 26. Beyond those stories of the handset's release ... <a href=\"http://pocketnow.com/android/htc-incredible-4g-benchmarks-offer-hardware-insight\">Read More</a>\n          <p>\n            <b>Related Posts</b>\n          </p>\n          <ul>      <li style=\"float:left;width:45%;background-color:#ebebeb;border:1px solid #cccccc;margin:5px 10px 5px 0px;list-style-type:none;padding:4px\">\n        <a href=\"http://pocketnow.com/android/verizon-htc-incredible-2-smiles-for-the-camera-again\"><img style=\"float:left;margin:0px 5px 5px 0px\" src=\"http://cdn.pocketnow.com/scale/80/60/portal/news/0000015901//verizon-htc-incredibles-1.jpg\" width=\"80\" height=\"60\" alt=\"\"></a>\n        <a href=\"http://pocketnow.com/android/verizon-htc-incredible-2-smiles-for-the-camera-again\">Verizon HTC Incredible 2 Smiles for the Camera Again</a>\n        <div>by Anton D. Nagy | 7-Apr-11</div>\n        <div style=\"clear:both\"></div>\n      </li>      <li style=\"float:left;width:45%;background-color:#ebebeb;border:1px solid #cccccc;margin:5px 10px 5px 0px;list-style-type:none;padding:4px\">\n        <a href=\"http://pocketnow.com/android/red-htc-droid-incredible-2-hitting-verizon-storage-rooms\"><img style=\"float:left;margin:0px 5px 5px 0px\" src=\"http://cdn.pocketnow.com/scale/80/60/portal/news/0000020123//red-incredible2.jpg\" width=\"80\" height=\"60\" alt=\"\"></a>\n        <a href=\"http://pocketnow.com/android/red-htc-droid-incredible-2-hitting-verizon-storage-rooms\">Red HTC Droid Incredible 2 Hitting Verizon Storage Rooms</a>\n        <div>by Anton D. Nagy | 22-Nov-11</div>\n        <div style=\"clear:both\"></div>\n      </li>      <li style=\"float:left;width:45%;background-color:#ebebeb;border:1px solid #cccccc;margin:5px 10px 5px 0px;list-style-type:none;padding:4px\">\n        <a href=\"http://pocketnow.com/android/verizon-droid-incredible-2-case-caught-on-camera\"><img style=\"float:left;margin:0px 5px 5px 0px\" src=\"http://cdn.pocketnow.com/scale/80/60/portal/news/0000015947//Incredible2Case.jpg\" width=\"80\" height=\"60\" alt=\"\"></a>\n        <a href=\"http://pocketnow.com/android/verizon-droid-incredible-2-case-caught-on-camera\">Verizon Droid Incredible 2 Case Caught on Camera</a>\n        <div>by Anton D. Nagy | 9-Apr-11</div>\n        <div style=\"clear:both\"></div>\n      </li>      <li style=\"float:left;width:45%;background-color:#ebebeb;border:1px solid #cccccc;margin:5px 10px 5px 0px;list-style-type:none;padding:4px\">\n        <a href=\"http://pocketnow.com/android/verizon-droid-incredible-2-lands-on-april-28-says-leak\"><img style=\"float:left;margin:0px 5px 5px 0px\" src=\"http://cdn.pocketnow.com/scale/80/60/portal/news/0000016077//Droid-Incredible-2-Launchdate.jpg\" width=\"80\" height=\"60\" alt=\"\"></a>\n        <a href=\"http://pocketnow.com/android/verizon-droid-incredible-2-lands-on-april-28-says-leak\">Verizon Droid Incredible 2 Lands on April 28 Says Another Leak</a>\n        <div>by Anton D. Nagy | 15-Apr-11</div>\n        <div style=\"clear:both\"></div>\n      </li></ul><div style=\"clear:both\"></div>\n\n          <p>\n                <a href=\"http://pocketnow.com/android/htc-incredible-4g-benchmarks-offer-hardware-insight#disqus_thread\">0 Comments</a>\n          </p><p><iframe src=\"http://feedads.g.doubleclick.net/~ah/f/jim51lutu6pi0jjs2l68t9a6as/300/250?ca=1&amp;fh=280#http%3A%2F%2Fpocketnow.com%2Fandroid%2Fhtc-incredible-4g-benchmarks-offer-hardware-insight\" width=\"100%\" height=\"280\" frameborder=\"0\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\"></iframe></p><img src=\"http://feeds.feedburner.com/~r/pocketnow/~4/Gkoj2TkuL3Q\" height=\"1\" width=\"1\">"
+            },
+            "author": "Stephen Schenck",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://feeds.feedburner.com/pocketnow",
+                "title": "pocketnow.com",
+                "htmlUrl": "http://pocketnow.com/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332209430126",
+            "timestampUsec": "1332209430126742",
+            "id": "tag:google.com,2005:reader/item/6b98993dd5349dd0",
+            "categories": [
+                "user/12741052575449821559/label/Gadget Blogs",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/state/com.google/fresh",
+                "Smartphone News"
+            ],
+            "title": "Will The FAA Soon Clear Tablets For Full In-Flight Use?",
+            "published": 1332201062,
+            "updated": 1332201062,
+            "alternate": [
+                {
+                    "href": "http://feedproxy.google.com/~r/pocketnow/~3/AGU0HINlEoo/will-the-faa-soon-clear-tablets-for-full-in-flight-use",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "When Alec Baldwin was kicked off a flight last year for using his smartphone to play a game, after the protestations of airline employees, it got a lot of people talking again about restrictions that keep us from fully enjoying our electronics for the entire duration of flights. There were a lot of questions over just why we really had these rules ... <a href=\"http://pocketnow.com/smartphone-news/will-the-faa-soon-clear-tablets-for-full-in-flight-use\">Read More</a>\n          <p>\n            <b>Related Posts</b>\n          </p>\n          <ul>      <li style=\"float:left;width:45%;background-color:#ebebeb;border:1px solid #cccccc;margin:5px 10px 5px 0px;list-style-type:none;padding:4px\">\n        <a href=\"http://pocketnow.com/windows-phone/minisquadron-xbox-live-game-for-windows-phone\"><img style=\"float:left;margin:0px 5px 5px 0px\" src=\"http://cdn.pocketnow.com/scale/80/60/portal/news/0000020633//MiniSquadron.jpg\" width=\"80\" height=\"60\" alt=\"\"></a>\n        <a href=\"http://pocketnow.com/windows-phone/minisquadron-xbox-live-game-for-windows-phone\">MiniSquadron Xbox LIVE Game for Windows Phone</a>\n        <div>by Adam Z Lein | 20-Dec-11</div>\n        <div style=\"clear:both\"></div>\n      </li>      <li style=\"float:left;width:45%;background-color:#ebebeb;border:1px solid #cccccc;margin:5px 10px 5px 0px;list-style-type:none;padding:4px\">\n        <a href=\"http://pocketnow.com/iphone/googles-eric-schmidt-tells-senate-about-apples-siri-threat\"><img style=\"float:left;margin:0px 5px 5px 0px\" src=\"http://cdn.pocketnow.com/scale/80/60/portal/news/0000019846//EricSchmidt.jpg\" width=\"80\" height=\"60\" alt=\"\"></a>\n        <a href=\"http://pocketnow.com/iphone/googles-eric-schmidt-tells-senate-about-apples-siri-threat\">Google's Eric Schmidt Tells Senate About Apple's Siri Threat</a>\n        <div>by Anton D. Nagy | 7-Nov-11</div>\n        <div style=\"clear:both\"></div>\n      </li>      <li style=\"float:left;width:45%;background-color:#ebebeb;border:1px solid #cccccc;margin:5px 10px 5px 0px;list-style-type:none;padding:4px\">\n        <a href=\"http://pocketnow.com/android/htc-desire-gingerbread-rolling-out-by-the-end-of-july\"><img style=\"float:left;margin:0px 5px 5px 0px\" src=\"http://cdn.pocketnow.com/scale/80/60/portal/news/0000017707//DesireGBStatus.jpg\" width=\"80\" height=\"60\" alt=\"\"></a>\n        <a href=\"http://pocketnow.com/android/htc-desire-gingerbread-rolling-out-by-the-end-of-july\">HTC: Desire Gingerbread Rolling Out By the End of July</a>\n        <div>by Anton D. Nagy | 8-Jul-11</div>\n        <div style=\"clear:both\"></div>\n      </li>      <li style=\"float:left;width:45%;background-color:#ebebeb;border:1px solid #cccccc;margin:5px 10px 5px 0px;list-style-type:none;padding:4px\">\n        <a href=\"http://pocketnow.com/smartphone-news/we-are-live-at-ces-2012-watch-our-top-5-predictions-video\"><img style=\"float:left;margin:0px 5px 5px 0px\" src=\"http://cdn.pocketnow.com/scale/80/60/portal/news/0000020932//120108-PocketnowCES2012Preview.jpg\" width=\"80\" height=\"60\" alt=\"\"></a>\n        <a href=\"http://pocketnow.com/smartphone-news/we-are-live-at-ces-2012-watch-our-top-5-predictions-video\">We Are Live At CES 2012! Watch Our Top 5 Predictions (Video)</a>\n        <div>by Jaime Rivera | 9-Jan-12</div>\n        <div style=\"clear:both\"></div>\n      </li></ul><div style=\"clear:both\"></div>\n\n          <p>\n                <a href=\"http://pocketnow.com/smartphone-news/will-the-faa-soon-clear-tablets-for-full-in-flight-use#disqus_thread\">2 Comments</a>\n          </p><p><iframe src=\"http://feedads.g.doubleclick.net/~ah/f/jim51lutu6pi0jjs2l68t9a6as/300/250?ca=1&amp;fh=280#http%3A%2F%2Fpocketnow.com%2Fsmartphone-news%2Fwill-the-faa-soon-clear-tablets-for-full-in-flight-use\" width=\"100%\" height=\"280\" frameborder=\"0\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\"></iframe></p><img src=\"http://feeds.feedburner.com/~r/pocketnow/~4/AGU0HINlEoo\" height=\"1\" width=\"1\">"
+            },
+            "author": "Stephen Schenck",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://feeds.feedburner.com/pocketnow",
+                "title": "pocketnow.com",
+                "htmlUrl": "http://pocketnow.com/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332209430125",
+            "timestampUsec": "1332209430125997",
+            "id": "tag:google.com,2005:reader/item/15885168259d3452",
+            "categories": [
+                "user/12741052575449821559/label/Gadget Blogs",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/state/com.google/fresh",
+                "Android"
+            ],
+            "title": "Humble Bundle 2 Lets You Name Your Own Prices For Games",
+            "published": 1332190694,
+            "updated": 1332190694,
+            "alternate": [
+                {
+                    "href": "http://feedproxy.google.com/~r/pocketnow/~3/nrgXUkKsl8U/humble-bundle-2-lets-you-name-your-own-prices-for-games",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "The Humble Bundle is an interesting idea for game sales and distribution that came into being a couple years ago. Developers of independent games get together to offer users a package of several of their titles, sold together as one. What makes things interesting is that the Humble Bundle lets you pay whatever you want for group. More so than that, ... <a href=\"http://pocketnow.com/android/humble-bundle-2-lets-you-name-your-own-prices-for-games\">Read More</a>\n          <p>\n            <b>Related Posts</b>\n          </p>\n          <ul>      <li style=\"float:left;width:45%;background-color:#ebebeb;border:1px solid #cccccc;margin:5px 10px 5px 0px;list-style-type:none;padding:4px\">\n        <a href=\"http://pocketnow.com/windows-phone/nokia-lumia-owners-will-get-first-access-to-over-20-ea-games\"><img style=\"float:left;margin:0px 5px 5px 0px\" src=\"http://cdn.pocketnow.com/scale/80/60/portal/news/0000020992//lumia900.jpg\" width=\"80\" height=\"60\" alt=\"\"></a>\n        <a href=\"http://pocketnow.com/windows-phone/nokia-lumia-owners-will-get-first-access-to-over-20-ea-games\">Nokia Lumia Owners Will Get First Access To Over 20 EA Games</a>\n        <div>by Anton D. Nagy | 11-Jan-12</div>\n        <div style=\"clear:both\"></div>\n      </li>      <li style=\"float:left;width:45%;background-color:#ebebeb;border:1px solid #cccccc;margin:5px 10px 5px 0px;list-style-type:none;padding:4px\">\n        <a href=\"http://pocketnow.com/android/popcap-games-signs-agreement-with-sony-ericsson\"><img style=\"float:left;margin:0px 5px 5px 0px\" src=\"http://cdn.pocketnow.com/scale/80/60/portal/news/0000017912//xperia_mini_pro_popcap.jpg\" width=\"80\" height=\"60\" alt=\"\"></a>\n        <a href=\"http://pocketnow.com/android/popcap-games-signs-agreement-with-sony-ericsson\">PopCap Signs Agreement With Sony Ericsson To Pre-Load Games</a>\n        <div>by Anton D. Nagy | 21-Jul-11</div>\n        <div style=\"clear:both\"></div>\n      </li>      <li style=\"float:left;width:45%;background-color:#ebebeb;border:1px solid #cccccc;margin:5px 10px 5px 0px;list-style-type:none;padding:4px\">\n        <a href=\"http://pocketnow.com/iphone/limited-time-deal-capcom-sets-their-ios-games-on-sale-for-099\"><img style=\"float:left;margin:0px 5px 5px 0px\" src=\"http://cdn.pocketnow.com/scale/80/60/portal/news/0000017388//iPhoneImg6.jpg\" width=\"80\" height=\"60\" alt=\"\"></a>\n        <a href=\"http://pocketnow.com/iphone/limited-time-deal-capcom-sets-their-ios-games-on-sale-for-099\">Limited Time Deal: Capcom Sets Their iOS Games On Sale For $0.99</a>\n        <div>by Jaime Rivera | 22-Jun-11</div>\n        <div style=\"clear:both\"></div>\n      </li>      <li style=\"float:left;width:45%;background-color:#ebebeb;border:1px solid #cccccc;margin:5px 10px 5px 0px;list-style-type:none;padding:4px\">\n        <a href=\"http://pocketnow.com/windows-phone/windows-phone-7-gets-group-sms-solution\"><img style=\"float:left;margin:0px 5px 5px 0px\" src=\"http://cdn.pocketnow.com/scale/80/60/portal/news/0000015895//groupsms.PNG\" width=\"80\" height=\"60\" alt=\"\"></a>\n        <a href=\"http://pocketnow.com/windows-phone/windows-phone-7-gets-group-sms-solution\">Windows Phone 7 Group SMS App Offers Mass-Texting Solution</a>\n        <div>by Stephen Schenck | 6-Apr-11</div>\n        <div style=\"clear:both\"></div>\n      </li></ul><div style=\"clear:both\"></div>\n\n          <p>\n                <a href=\"http://pocketnow.com/android/humble-bundle-2-lets-you-name-your-own-prices-for-games#disqus_thread\">0 Comments</a>\n          </p><img src=\"http://feeds.feedburner.com/~r/pocketnow/~4/nrgXUkKsl8U\" height=\"1\" width=\"1\">"
+            },
+            "author": "Stephen Schenck",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://feeds.feedburner.com/pocketnow",
+                "title": "pocketnow.com",
+                "htmlUrl": "http://pocketnow.com/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332209384597",
+            "timestampUsec": "1332209384597967",
+            "id": "tag:google.com,2005:reader/item/9c7bf82042adb0fe",
+            "categories": [
+                "user/12741052575449821559/label/Gadget Blogs",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/state/com.google/fresh",
+                "News and Articles"
+            ],
+            "title": "Google purchase of Motorola Mobility awaiting Chinese approval",
+            "published": 1332208680,
+            "updated": 1332208680,
+            "alternate": [
+                {
+                    "href": "http://feedproxy.google.com/~r/phonearena/ySoL/~3/EitkYYB8_uo/Google-purchase-of-Motorola-Mobility-awaiting-Chinese-approval_id28227",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "<img src=\"http://i-cdn.phonearena.com/images/article/28227-thumb/Google-purchase-of-Motorola-Mobility-awaiting-Chinese-approval.jpg\" alt=\"\" hspace=\"5\" vspace=\"2\" align=\"left\">While Google's $12.5 billion purchase of Motorola Mobility has already received clearance from the U.S. Department of Justice, the European Union and other important regulatory bodies, the union still requires approval from China where officials are extending the length of their investigation...<p><iframe src=\"http://feedads.g.doubleclick.net/~ah/f/9enacdtqhuv1cpfapcgagomceo/300/250#http%3A%2F%2Fwww.phonearena.com%2Fnews%2FGoogle-purchase-of-Motorola-Mobility-awaiting-Chinese-approval_id28227\" width=\"100%\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\"></iframe></p><img src=\"http://feeds.feedburner.com/~r/phonearena/ySoL/~4/EitkYYB8_uo\" height=\"1\" width=\"1\">"
+            },
+            "author": "",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://www.phonearena.com/rss/rss_news.php",
+                "title": "Phone Arena - Latest News",
+                "htmlUrl": "http://www.phonearena.com/news"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332209365336",
+            "timestampUsec": "1332209365336981",
+            "id": "tag:google.com,2005:reader/item/72519d75489d5a34",
+            "categories": [
+                "user/12741052575449821559/label/News",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/state/com.google/fresh",
+                "News"
+            ],
+            "title": "House GOP fights to notch signature accomplishments",
+            "published": 1332191584,
+            "updated": 1332191584,
+            "alternate": [
+                {
+                    "href": "http://pheedo.msnbc.msn.com/click.phdo?i=cd1b3a0c3a7aed957aa9fd63d494b203",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "Republicans are still struggling to show they are able to get something done in a Congress that has been painted as intransigent in the dwindling time until the campaign season reaches full swing.<br style=\"clear:both\">\n<br style=\"clear:both\">\n  <a style=\"font-size:10px;color:maroon\" href=\"http://www.pheedcontent.com/hostedMorselClick.php?hfmm=v3:68356e860976dd8747a5936a4dcd4ed8:L6NYI5vg7YA7fuiE%2Br0k1sS0JHvNq%2FJ%2FdD04oJvjnR1u8g89WJ2RjTbvcL3dd7SDoqD8cNDCYNf5bQ%3D%3D\"><img border=\"0\" title=\"Email this Article\" alt=\"Email this Article\" src=\"http://images.pheedo.com/images/mm/emailthis.png\"></a>\n  <a style=\"font-size:10px;color:maroon\" href=\"http://www.pheedcontent.com/hostedMorselClick.php?hfmm=v3:57b7e427b510030f77f86418ca2f815d:CK2BzgDKK5LFsazp2qsipt0cusiplCQsFpbBCIs4jupV%2FlmDay39ltUsAg1Q2Qp3RF5emcRW5AOUwQg%3D\"><img border=\"0\" title=\"Add to Newsvine\" alt=\"Add to Newsvine\" src=\"http://images.pheedo.com/images/mm/newsvine.png\"></a>\n<br style=\"clear:both\">\n<a href=\"http://ads.pheedo.com/click.phdo?s=cd1b3a0c3a7aed957aa9fd63d494b203&amp;p=1\"><img alt=\"\" style=\"border:0\" border=\"0\" src=\"http://ads.pheedo.com/img.phdo?s=cd1b3a0c3a7aed957aa9fd63d494b203&amp;p=1\"></a>\n<img alt=\"\" height=\"0\" width=\"0\" border=\"0\" src=\"http://tags.bluekai.com/site/5148\"><img alt=\"\" height=\"0\" width=\"0\" border=\"0\" src=\"http://insight.adsrvr.org/track/evnt/?ct=0:5wz49e9&amp;adv=wouzn4v&amp;fmt=3\">"
+            },
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://rss.msnbc.msn.com/id/3032091/device/rss/rss.xml",
+                "title": "msnbc.com: Top msnbc.com headlines",
+                "htmlUrl": "http://www.msnbc.msn.com/id/3053415/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332209347767",
+            "timestampUsec": "1332209347767690",
+            "id": "tag:google.com,2005:reader/item/d5aa31938546f852",
+            "categories": [
+                "user/12741052575449821559/label/Gadget Blogs",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/label/15 Best",
+                "user/12741052575449821559/state/com.google/fresh",
+                "app feeds",
+                "wish list",
+                "App Catalog",
+                "pivot",
+                "Editorials"
+            ],
+            "title": "The webOS Wish List: A browsable web-based App Catalog",
+            "published": 1332206237,
+            "updated": 1332206237,
+            "alternate": [
+                {
+                    "href": "http://feedproxy.google.com/~r/Precentralnet/~3/-_1SYLC2zLE/story01.htm",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "<p><img alt=\"The webOS Wish List: A browsable web-based App Catalog\" src=\"http://cdn.webosnation.com/sites/webosnation.com/files/imagecache/large/postimages/84473/app-catalog-browser.JPG\" title=\"\"></p> <p>When HP pulled <a href=\"http://www.webosnation.com/hp-shutting-down-open-app-feeds\">access to their previously-open-to-all App Catalog feeds</a>, we were understandably disappointed. But HP had promised something new and innovative in the way of app discovery. That <a href=\"http://www.webosnation.com/pivot-hp-s-app-catalog-magazine\">turned out to be Pivot</a>, which while new and <a href=\"http://www.webosnation.com/hp-pivot-finalist-2011-digital-magazine-awards\">innovative to say the least</a>, was lacking in a pretty important area: it existed only on the TouchPad (<a href=\"http://www.webosnation.com/pivot-out-featured-apps-back-1\">and doesn&#39;t exist at all anymore</a>), leaving those of us looking to do some app browsing and comparison online in a lurch.</p> <p>While we&#39;re still longing for the return of the app feeds or an appropriate replacement so we can resurrect the App Gallery in full, we&#39;d also like to see HP go official with their own web-based App Catalog browser. And with <a href=\"http://www.webosnation.com/hp-announces-enyo-2-0-application-framework-open-sources-1-0\">open source Enyo 2.0</a> it&#39;d be even easier than before to <a href=\"http://www.webosnation.com/developers-use-open-source-enyo-web-based-previews-your-apps\">just put the app itself online</a>, accessing all the same content in the exact same way. Plus, having a web presence there when somebody searches Google for App Catalog would be a incredibly good thing. Right now a search for App Catalog brings up results that are practically worthless to the intended purpose of the search.</p> <p>Also, it should be a source of great embarrassment to HP that Apple, Google, Microsoft, and even Research in Motion all have desktop-browsable application stores. Seriously, <em>BlackBerry</em> beat webOS to the punch. <em>On the web</em>. That&#39;s not good.</p> <p>Have your own thoughts on this <a href=\"http://www.webosnation.com/tags/wish%20list\">webOS Wish List</a> entry? Of course you do - the comments await. Without a doubt you have your own ideas as to what ought be on the webOS wish list, and so <a href=\"http://forums.webosnation.com/webos-discussion/310581-webos-wish-list.html\">we&#39;ve created a forum thread just for that</a> - and an awesome discussion it has proven to be.</p><img width=\"1\" height=\"1\" src=\"http://precentral.net.feedsportal.com/c/33997/f/616882/s/1d978ce3/mf.gif\" border=\"0\"><div><table border=\"0\"><tr><td valign=\"middle\"><a href=\"http://share.feedsportal.com/viral/sendEmail.cfm?lang=en&amp;title=The+webOS+Wish+List%3A+A+browsable+web-based+App+Catalog&amp;link=http%3A%2F%2Fwww.webosnation.com%2Fwebos-wish-list-browsable-web-based-app-catalog\"><img src=\"http://res3.feedsportal.com/images/emailthis2.gif\" border=\"0\"></a></td><td valign=\"middle\"><a href=\"http://res.feedsportal.com/viral/bookmark.cfm?title=The+webOS+Wish+List%3A+A+browsable+web-based+App+Catalog&amp;link=http%3A%2F%2Fwww.webosnation.com%2Fwebos-wish-list-browsable-web-based-app-catalog\"><img src=\"http://res3.feedsportal.com/images/bookmark.gif\" border=\"0\"></a></td></tr></table></div><br><br><a href=\"http://da.feedsportal.com/r/129200597616/u/49/f/616882/c/33997/s/1d978ce3/kg/300/a2.htm\"><img src=\"http://da.feedsportal.com/r/129200597616/u/49/f/616882/c/33997/s/1d978ce3/kg/300/a2.img\" border=\"0\"></a><img src=\"http://da.feedsportal.com/r/129200597616/u/49/f/616882/c/33997/s/1d978ce3/kg/300/a2t.img\" border=\"0\"><img src=\"http://feeds.feedburner.com/~r/Precentralnet/~4/-_1SYLC2zLE\" height=\"1\" width=\"1\">"
+            },
+            "author": "Derek Kessler",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://www.precentral.net/rss.xml",
+                "title": "webOS Nation",
+                "htmlUrl": "http://www.webosnation.com/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332209339289",
+            "timestampUsec": "1332209339289302",
+            "id": "tag:google.com,2005:reader/item/3a7e0b9d6300298f",
+            "categories": [
+                "user/12741052575449821559/label/Android Blogs",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/state/com.google/fresh",
+                "Handsets",
+                "Rumors",
+                "Samsung",
+                "Samsung Galaxy S III"
+            ],
+            "title": "Samsung Galaxy S III’s Secret Weapon Is Wireless Charging [Rumor]",
+            "published": 1332208920,
+            "updated": 1332208920,
+            "alternate": [
+                {
+                    "href": "http://phandroid.com/2012/03/19/samsung-galaxy-s-iiis-secret-weapon-is-wireless-charging-rumor/",
+                    "type": "text/html"
+                }
+            ],
+            "content": {
+                "direction": "ltr",
+                "content": "<p>\n\t<img src=\"http://phandroid.s3.amazonaws.com/wp-content/uploads/2012/03/LG_Charge_Pad_with_Samsung_Phone_Close_Up_560_large_verge_medium_landscape-e1332208415320-150x150.jpg\" alt=\"This image has no alt text\">\n\t</p><p><a href=\"http://phandroid.com/2012/03/19/samsung-galaxy-s-iiis-secret-weapon-is-wireless-charging-rumor/lg_charge_pad_with_samsung_phone_close_up_560_large_verge_medium_landscape/\" rel=\"attachment wp-att-88574\"><img title=\"LG_Charge_Pad_with_Samsung_Phone_Close_Up_560_large_verge_medium_landscape\" src=\"http://phandroid.s3.amazonaws.com/wp-content/uploads/2012/03/LG_Charge_Pad_with_Samsung_Phone_Close_Up_560_large_verge_medium_landscape-550x226.jpg\" alt=\"\" width=\"550\" height=\"226\"></a></p>\n<p>After a handful of Galaxy S III rumors over the weekend… it’s time for yet another one. Like all rumors, take this as a grain of salt. According to the Korean site <a href=\"http://translate.google.com/translate?sl=ko&amp;tl=en&amp;js=n&amp;prev=_t&amp;hl=en&amp;ie=UTF-8&amp;layout=2&amp;eotf=1&amp;u=http%3A%2F%2Fwww.ddaily.co.kr%2Fnews%2Fnews_view.php%3Fuid%3D88846\"><em>DDaily</em></a>, they have it on good authority that Samsung’s “secret weapon” in their upcoming Galaxy S III is that the device will come standard with wireless charging capabilities out of the box. If that doesn’t sound too killer just wait.</p>\n<p>Unlike current wireless charging solutions which must have a capable device almost touching the surface of the charging pad, Samsung’s proprietary patented offering will allow for wireless charging anywhere from 1 to 2 meters away from the base. Now, <em>that</em> would be something.</p>\n<p>It’s kind of strange how we haven’t seen a more widespread adoption of the wireless charging standard, but once Samsung makes the jump, I wouldn’t be surprised if we start seeing it on more devices in the future. What do you guys think? Would wireless charging on the Galaxy S III make the device even more desirable?</p>\n<p>[<a href=\"http://www.theverge.com/2012/3/19/2885949/samsung-galaxy-s-iii-to-come-standard-with-wireless-charging\">TheVerge</a>]</p>\n<p> </p>"
+            },
+            "author": "Chris Chavez",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://phandroid.com/feed/",
+                "title": "Android Phone Fans",
+                "htmlUrl": "http://phandroid.com"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332209208485",
+            "timestampUsec": "1332209208485834",
+            "id": "tag:google.com,2005:reader/item/1a87b013194d3abf",
+            "categories": [
+                "user/12741052575449821559/label/Gadget Blogs",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/state/com.google/fresh",
+                "Windows Phone",
+                "Wireless",
+                "MSM8960 Snapdragon",
+                "Nokia",
+                "Sprint",
+                "Windows 8",
+                "Windows Phone 8",
+                "Windows Phone Apollo"
+            ],
+            "title": "Sprint-Bound Windows Phone Apollo Device “Confirmed” to Have MSM8960 Chip",
+            "published": 1332207000,
+            "updated": 1332207000,
+            "alternate": [
+                {
+                    "href": "http://www.technobuffalo.com/companies/microsoft/windows-phone/sprint-bound-windows-phone-apollo-device-confirmed-to-have-msm8960-chip/",
+                    "type": "text/html"
+                }
+            ],
+            "content": {
+                "direction": "ltr",
+                "content": "<p style=\"text-align:left\"><a href=\"http://www.technobuffalo.com/companies/nokia/report-claims-nokia-preparing-two-windows-phone-8-devices-for-att/attachment/windows-phone-8-apollo-3/\" rel=\"attachment wp-att-109799\"><img title=\"Windows-Phone-8-Apollo\" src=\"http://www.technobuffalo.com/wp-content/uploads/2012/03/Windows-Phone-8-Apollo.png\" alt=\"Windows-Phone-8-Apollo\" width=\"500\" height=\"300\"></a>A Windows Phone Apollo device equipped with LTE is supposedly headed to Sprint this fall, with Qualcomm’s MSM8960 Snapdragon chip “confirmed” to be on board. According to <em>SprintFeed</em>, there is no OEM attached to the project, though Nokia has been heavily linked to bring the device to life, echoing a similar report <a href=\"http://www.technobuffalo.com/companies/microsoft/windows-phone/microsoft-testing-dual-core-windows-8-handset-for-sprint/\">from earlier this month</a>. Sources familiar with Sprint’s LTE rollout plan also said the handset is slated to go through a number of tests in the next few months, pegging it for the distant fall timeframe and lining it up well with Microsoft’s planned <a href=\"http://www.technobuffalo.com/companies/microsoft/windows/microsoft-planning-to-launch-windows-8-around-october/\">October Windows 8 launch</a>. We wish we had more details on this one, but it looks like this is all for now. Hang in there Sprint customers, as it sounds like a pretty awesome Windows Phone Apollo device is on the way.</p>\n<p>[via <a href=\"http://www.sprintfeed.com/2012/03/sprint-developing-lte-windows-phone-with-fall-release-in-mind/\">Sprint Feed</a>]</p>"
+            },
+            "author": "Brandon Russell",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://www.technobuffalo.com/feed/",
+                "title": "TechnoBuffalo",
+                "htmlUrl": "http://www.technobuffalo.com"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332208827801",
+            "timestampUsec": "1332208827801499",
+            "id": "tag:google.com,2005:reader/item/ba1a2728d6210f67",
+            "categories": [
+                "user/12741052575449821559/state/com.google/read",
+                "user/12741052575449821559/label/Sports",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/state/com.google/fresh"
+            ],
+            "title": "QB Garrard signs one-year deal with Dolphins",
+            "published": 1332211053,
+            "updated": 1332211053,
+            "alternate": [
+                {
+                    "href": "http://espn.go.com/nfl/story/_/id/7711362/2012-nfl-free-agency-miami-dolphins-sign-david-garrard-one-year-deal",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "<a href=\"http://api.tweetmeme.com/share?url=http://espn.go.com/nfl/story/_/id/7711362/2012-nfl-free-agency-miami-dolphins-sign-david-garrard-one-year-deal&amp;service=bit.ly&amp;source=espn\"><img style=\"padding-left:10px\" align=\"right\" border=\"0\" src=\"http://api.tweetmeme.com/imagebutton.gif?url=http://espn.go.com/nfl/story/_/id/7711362/2012-nfl-free-agency-miami-dolphins-sign-david-garrard-one-year-deal\" height=\"49\" width=\"41\"></a>Quarterback David Garrard signed a one-year contract Monday with the Miami Dolphins and said he was told he'll be given a shot at the starting job."
+            },
+            "author": "Associated Press",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://sports.espn.go.com/espn/rss/nfl/news",
+                "title": "ESPN.com - NFL",
+                "htmlUrl": "http://espn.go.com/nfl/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332208822177",
+            "timestampUsec": "1332208822177522",
+            "id": "tag:google.com,2005:reader/item/287819f6f3cded8c",
+            "categories": [
+                "user/12741052575449821559/state/com.google/read",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/state/com.google/fresh"
+            ],
+            "title": "ZyXEL Powerline AV 500 Mbps Wall-Plug Adapter w/ AC 2 Unit Pass-through Kit (PLA4215KIT) $85 + Free shipping",
+            "published": 1332206601,
+            "updated": 1332206601,
+            "alternate": [
+                {
+                    "href": "http://feedproxy.google.com/~r/SlickdealsnetFP/~3/opyFERx796o/71144",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "<img src=\"http://feeds.feedburner.com/~r/SlickdealsnetFP/~4/opyFERx796o\" height=\"1\" width=\"1\">"
+            },
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://www.slickdeals.net/rss.php",
+                "title": "SlickDeals.net",
+                "htmlUrl": "http://www.slickdeals.net/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332208770631",
+            "timestampUsec": "1332208770631892",
+            "id": "tag:google.com,2005:reader/item/4d584febf2c6204d",
+            "categories": [
+                "user/12741052575449821559/label/Gadget Blogs",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/state/com.google/fresh",
+                "Archive",
+                "Consoles",
+                "Electronic Arts",
+                "iOS",
+                "mobile gaming",
+                "video games"
+            ],
+            "title": "EA’s poor-performing console, iOS game servers being shuttered",
+            "published": 1332208752,
+            "updated": 1332208752,
+            "alternate": [
+                {
+                    "href": "http://feeds.slashgear.com/~r/slashgear/~3/yIbZ-SDZw74/",
+                    "type": "text/html"
+                }
+            ],
+            "content": {
+                "direction": "ltr",
+                "content": "<p>Electronic Arts has announced that beginning at the end of March and for a couple weeks thereafter, it will no longer be supporting online gameplay options for a large number of Wii, Xbox 360, PS3, and iPhone/iPad games. The company noted that the affected titles, though seemingly large in number, only accounted for less than 1% of all peak online gameplay connections. The maintenance of keeping those servers running just wasn’t worth it.</p>\n<p><img src=\"http://cdn.slashgear.com/wp-content/uploads/2012/03/fifapsp-580x406.jpg\" alt=\"\" width=\"580\" height=\"406\"></p>\n<p><span></span></p>\n<p>In a statement on its website, EA said, “The decisions to retire older EA games are never easy. But as games get replaced with newer titles, the number of players still enjoying the older games dwindles to a level … where it’s no longer feasible to continue the behind-the-scenes work involved with keeping these games up and running.” The total number of games being taken out of commission is 14, with three on the iOS platform and the remaining 11 on traditional game consoles.</p>\n<p>The iOS games in question are Battlefield 3: Aftershock, Fantasi Safari, and Ghost Harvest. Here’s the breakdown of the console games: Boom Blox Bash Party for Wii; Burnout Revenge for Xbox 360; EA Create for PC, PlayStation 3, and Xbox 360; EA Sports Active 2.0 for PS3, Wii, and Xbox 360; EA Sports Active NFL Training Camp for Wii; FIFA 10 for PlayStation Portable and Wii; The Godfather II for PC, PS3, and Xbox 360; MMA for PS3 and Xbox 360; Need for Speed ProStreet for PS3 and Xbox 360; The Saboteur (and The Midnight Club access) for PS3 and Xbox 360; and Spare Parts for PS3 and Xbox 360. The iOS game servers will go offline on March 31. The console games will go dark on April 13.</p>\n<p>[<a href=\"http://www.pcmag.com/article2/0,2817,2401779,00.asp\">via</a> PC Mag]</p>\n<small><br>\n<a href=\"http://www.slashgear.com/eas-poor-performing-console-ios-game-servers-being-shuttered-19219143/\" title=\"EA’s poor-performing console, iOS game servers being shuttered\">EA’s poor-performing console, iOS game servers being shuttered</a> is written by <a href=\"http://www.slashgear.com/\">Mark Raby</a> &amp; originally posted on <a href=\"http://www.slashgear.com\" title=\"SlashGear\">SlashGear</a>. <br>© 2005 - 2012, <a href=\"http://www.slashgear.com\" title=\"SlashGear\">SlashGear</a>. All right reserved. </small><p><iframe src=\"http://feedads.g.doubleclick.net/~ah/f/tp3b0e834p177ok8qk2to9kihg/468/60#http%3A%2F%2Fwww.slashgear.com%2Feas-poor-performing-console-ios-game-servers-being-shuttered-19219143%2F\" width=\"100%\" height=\"60\" frameborder=\"0\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\"></iframe></p><img src=\"http://feeds.feedburner.com/~r/slashgear/~4/yIbZ-SDZw74\" height=\"1\" width=\"1\">"
+            },
+            "author": "Mark Raby",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://feeds.slashgear.com/slashgear",
+                "title": "SlashGear",
+                "htmlUrl": "http://www.slashgear.com"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332208670289",
+            "timestampUsec": "1332208670289872",
+            "id": "tag:google.com,2005:reader/item/dbf1749b80f240d2",
+            "categories": [
+                "user/12741052575449821559/label/News",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/state/com.google/fresh"
+            ],
+            "title": "Low staffing 'harms elderly care'",
+            "published": 1332207474,
+            "updated": 1332207474,
+            "alternate": [
+                {
+                    "href": "http://www.bbc.co.uk/go/rss/int/news/-/news/health-17436928",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "The care of the elderly is being compromised in UK hospitals because there are too few nurses, according to the Royal College of Nursing."
+            },
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml",
+                "title": "BBC News - Home",
+                "htmlUrl": "http://www.bbc.co.uk/go/rss/int/news/-/news/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332208649709",
+            "timestampUsec": "1332208649709117",
+            "id": "tag:google.com,2005:reader/item/99e76db0c61050fb",
+            "categories": [
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/label/Listen Subscriptions",
+                "user/12741052575449821559/state/com.google/fresh"
+            ],
+            "title": "Rich Eisen Podcast: Peyton Palooza",
+            "published": 1332205440,
+            "updated": 1332205440,
+            "enclosure": [
+                {
+                    "href": "http://traffic.libsyn.com/richeisen/Mar19_Peyton_Palooza_Broncos-3-19-12.mp3",
+                    "type": "audio/mpeg",
+                    "length": "46568783"
+                }
+            ],
+            "alternate": [
+                {
+                    "href": "http://traffic.libsyn.com/richeisen/Mar19_Peyton_Palooza_Broncos-3-19-12.mp3",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "<p></p>\n<p>With the news of eleven time Pro Bowl QB Peyton Manning choosing the Denver Broncos as his next team, we decided to take the “best of” Rich’s five and a half hours of live television and turn it into a special “Peyton Palooza” bonus edition of the podcast.<span>  </span>Guests include Brian Billick, Jay Glazer, Jason La Canfora, Michael Lombardi, Michael Irvin, Denver Broncos WR Eric Decker, Armando Salguero of the Miami Herald, Broncos RB Willis McGahee, Gene Frenette of The Florida Times-Union , Broncos LB Von Miller, Kurt Warner, Sports Illustrated senior writer Peter King, Seattle Seahawks QB Matt Flynn and Mike Mayock.</p>\n<p>Enjoy, and thanks for downloading</p>"
+            },
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://richeisen.libsyn.com/rss",
+                "title": "The Rich Eisen Podcast",
+                "htmlUrl": "http://richeisen.nfl.com"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332208466730",
+            "timestampUsec": "1332208466730613",
+            "id": "tag:google.com,2005:reader/item/c5fce7c255345573",
+            "categories": [
+                "user/12741052575449821559/label/Car Blogs",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/state/com.google/fresh",
+                "autoblog podcast 274",
+                "autoblog podcast topics",
+                "podcast topics"
+            ],
+            "title": "Autoblog Podcast #274 goes LIVE at 10PM Eastern",
+            "published": 1332210600,
+            "updated": 1332210600,
+            "alternate": [
+                {
+                    "href": "http://www.autoblog.com/2012/03/19/autoblog-podcast-274-goes-live-at-10pm-eastern/",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "<p>Filed under: <a href=\"http://www.autoblog.com/category/etc/\" rel=\"tag\">Etc.</a></p><a href=\"http://www.autoblog.com/2012/03/19/autoblog-podcast-274-goes-live-at-10pm-eastern/#continued\"><img alt=\"Autoblog Podcast Live\" src=\"http://www.blogcdn.com/www.autoblog.com/media/2011/06/podcastlivev2stamp.jpg\" style=\"width:628px;height:305px;margin-left:0px;margin-right:0px;border-width:0px;border-style:solid\"></a><br>\n<br>\nWe're almost ready to record Episode #274 of the Autoblog Podcast, and you can check out the topics below, add your own to the <a href=\"http://www.autoblog.com/2012/03/19/submit-your-questions-for-autoblog-podcast-274-live/\">Q&amp;A</a> and join us live via <a href=\"http://www.ustream.tv/channel/autoblog-podcast\">UStream</a>, as well, and we've embedded our UStream player <a href=\"http://www.autoblog.com/2012/03/19/autoblog-podcast-274-goes-live-at-10pm-eastern/#continued\">after the jump</a>. Thanks for listening!<br>\n<br>\n<b><strong><big>Discussion Topics for Autoblog Podcast Episode #274</big></strong></b><br>\n<ul>\n\t<li>\n\t\t<ul>\n\t\t\t<li>\n\t\t\t\t<a href=\"http://www.autoblog.com/#\">2013 Ford Mustang GT</a></li>\n\t\t\t<li>\n\t\t\t\t<a href=\"http://www.autoblog.com/2012/03/19/groundbreaking-pre-production-volkswagen-xl1-caught-testing-on-t/\">Volkswagen XL1 spy shots</a></li>\n\t\t\t<li>\n\t\t\t\t<a href=\"http://www.autoblog.com/2012/03/16/toyota-prius-c-outsells-monthly-total-of-chevy-volt-nissan-leaf/\">Toyota Prius C outsells Volt, Leaf in three days</a></li>\n\t\t\t<li>\n\t\t\t\t<a href=\"http://www.autoblog.com/2012/03/15/nissan-reveals-latest-glimpse-at-2013-altima-as-ny-show-approach/\">2013 Nissan Altima teaser</a></li>\n\t\t</ul>\n\t</li>\n</ul><p><a href=\"http://www.autoblog.com/2012/03/19/autoblog-podcast-274-goes-live-at-10pm-eastern/\" rel=\"bookmark\">Continue reading <em>Autoblog Podcast #274 goes LIVE at 10PM Eastern</em></a></p><p style=\"padding:5px;background:#ddd;border:1px solid #ccc;clear:both\"><a href=\"http://www.autoblog.com/2012/03/19/autoblog-podcast-274-goes-live-at-10pm-eastern/\">Autoblog Podcast #274 goes LIVE at 10PM Eastern</a> originally appeared on <a href=\"http://www.autoblog.com\">Autoblog</a> on Mon, 19 Mar 2012 21:30:00 EST.  Please see our <a href=\"http://www.weblogsinc.com/feed-terms/\">terms for use of feeds</a>.</p><h6 style=\"clear:both;padding:8px 0 0 0;height:2px;font-size:1px;border:0;margin:0;padding:0\"></h6><a href=\"http://www.autoblog.com/2012/03/19/autoblog-podcast-274-goes-live-at-10pm-eastern/\" rel=\"bookmark\" title=\"Permanent link to this entry\">Permalink</a> | <a href=\"http://www.autoblog.com/forward/20196734/\" title=\"Send this entry to a friend via email\">Email this</a> | <a href=\"http://www.autoblog.com/2012/03/19/autoblog-podcast-274-goes-live-at-10pm-eastern/#comments\" title=\"View reader comments on this entry\">Comments</a>"
+            },
+            "author": "Dan Roth",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://feeds.autoblog.com/weblogsinc/autoblog",
+                "title": "Autoblog",
+                "htmlUrl": "http://www.autoblog.com"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332208453079",
+            "timestampUsec": "1332208453079031",
+            "id": "tag:google.com,2005:reader/item/e0fa0c104b5230e3",
+            "categories": [
+                "user/12741052575449821559/label/Sports",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/label/15 Best",
+                "user/12741052575449821559/state/com.google/fresh"
+            ],
+            "title": "Brad Miller Ready To Retire, Focus On Hunting Shows",
+            "published": 1332207566,
+            "updated": 1332207566,
+            "alternate": [
+                {
+                    "href": "http://www.sbnation.com/nba/2012/3/19/2886205/brad-miller-retire-hunting-shows",
+                    "type": "text/html"
+                }
+            ],
+            "content": {
+                "direction": "ltr",
+                "content": "<p>Well, this is probably the most <a href=\"http://www.sbnation.com/nba/players/21625/brad-miller\">Brad Miller</a> thing ever:</p>\n<blockquote>\n<p>Wolves Brad Miller to Y!:\"To anyone who wants to listen I'm retiring after this season.\" 14yr vet to concentrate on hunting tv shows postNBA</p>\n— Marc J. Spears (@SpearsNBAYahoo) <a href=\"https://twitter.com/SpearsNBAYahoo/status/181915237128212481\">March 20, 2012</a></blockquote>\n\n<p>Not even sure how to process this, but it's amazing. In a good way. Brad Miller retiring to concentrate on hunting shows just seems like the most Brad Miller thing ever.</p>\n<p>Now, notice the tweet doesn't specify whether Miller is going to start producing, starring in, or just watching hunting shows. I mean, they are usually on during the morning hours and daytime -- I'm told. And the man will need something to do when he's retired. Or is he shopping a reality show?</p>\n<p>So many questions and so few answers, but here's hoping he's focusing on hunting shows -- you know, shooting and fishing and all that. And <a href=\"http://twitter.com/MikePradaSBN/statuses/181915762510925824\">hopefully Chris Kaman is somehow involved</a>. The world needs this.</p>"
+            },
+            "author": "Brian Floyd",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://feeds.sbnation.com/rss/current",
+                "title": "SBNation.com -  All Posts",
+                "htmlUrl": "http://www.sbnation.com/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332208453078",
+            "timestampUsec": "1332208453078805",
+            "id": "tag:google.com,2005:reader/item/b796516cc58f3220",
+            "categories": [
+                "user/12741052575449821559/label/Sports",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/label/15 Best",
+                "user/12741052575449821559/state/com.google/fresh"
+            ],
+            "title": "Bulls Vs. Magic Score: Chicago Handling Dwight Howard, Orlando Without Derrick Rose",
+            "published": 1332207143,
+            "updated": 1332207143,
+            "alternate": [
+                {
+                    "href": "http://www.sbnation.com/nba/2012/3/19/2886183/bulls-magic-nba-halftime-update-score",
+                    "type": "text/html"
+                }
+            ],
+            "content": {
+                "direction": "ltr",
+                "content": "<p>The <a href=\"http://www.sbnation.com/nba/teams/chicago-bulls\">Chicago Bulls</a> might be torpedoing <a href=\"http://www.sbnation.com/nba/players/50189/derrick-rose\">Derrick Rose's</a> bid for another NBA MVP award. They're 9-4 in games he's missed, and in his 14th game out, they're facing the <a href=\"http://www.sbnation.com/nba/teams/orlando-magic\">Orlando Magic</a> on the road and winning 48-33. <a href=\"http://www.sbnation.com/nba/players/98833/john-lucas\">John Lucas</a>, the Bulls' third-string point guard, scored nine points in less than a minute and finished the half with 11 points.</p>\n<p><a href=\"http://www.sbnation.com/nba/players/21602/dwight-howard\">Dwight Howard</a>, comfortably in a Magic uniform until the 2013 trade deadline, got in foul trouble early, and <a href=\"http://www.sbnation.com/nba/2012/3/19/2886087/dwight-howard-omer-asik-flop\">wasn't happy</a> about how it happened. That kept him out of the flow of the game for the most part, ending the half with eight points and four rebounds. He hasn't gotten any help from his teammates, however. For the Magic to be successful, <a href=\"http://www.sbnation.com/nba/players/35055/ryan-anderson\">Ryan Anderson</a>, <a href=\"http://www.sbnation.com/nba/players/21604/hedo-turkoglu\">Hedo Turkoglu</a>, <a href=\"http://www.sbnation.com/nba/players/21518/jason-richardson\">Jason Richardson</a> and <a href=\"http://www.sbnation.com/nba/players/21603/jameer-nelson\">Jameer Nelson</a> have to be hitting their three-pointers, but, other than Anderson, they're 1-7 as a team.</p>\n<p>More importantly, they're not defending anyone, especially <a href=\"http://www.sbnation.com/nba/players/21653/carlos-boozer\">Carlos Boozer</a>. Boozer has roasted Ryan Anderson and has gone off to the tune of 16 points, five rebounds and two steals, shooting 8-10 from the field. If Boozer is playing this well, and the Magic aren't shooting threes, the second half is going to be even longer than the first.</p>\n<p><i>For news and updates on these two teams, check out Magic blog <a href=\"http://orlandopinstripedpost.com\">Orlando Pinstriped Post</a> and <a href=\"http://blogabull.com\">Blog-a-Bull</a>.</i></p>"
+            },
+            "author": "Ethan Rothstein",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://feeds.sbnation.com/rss/current",
+                "title": "SBNation.com -  All Posts",
+                "htmlUrl": "http://www.sbnation.com/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332208358304",
+            "timestampUsec": "1332208358304345",
+            "id": "tag:google.com,2005:reader/item/4fad5d6aa9883925",
+            "categories": [
+                "user/12741052575449821559/label/News",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/state/com.google/fresh",
+                "Romney, Mitt",
+                "Santorum, Rick",
+                "Republican Party",
+                "Presidential Election of 2012",
+                "Chicago (Ill)"
+            ],
+            "title": "Political Memo: On Illinois Primary’s Eve, Romney Cuts to General Election",
+            "published": 1332208465,
+            "updated": 1332208465,
+            "alternate": [
+                {
+                    "href": "http://feeds.nytimes.com/click.phdo?i=a9bd299e6989001905d179c41b85ffb9",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "The Illinois results will provide an important test of whether Mitt Romney can regain for good a sense of inevitability.<br style=\"clear:both\">\n<br style=\"clear:both\">\n<a href=\"http://ads.pheedo.com/click.phdo?s=a9bd299e6989001905d179c41b85ffb9&amp;p=1\"><img alt=\"\" style=\"border:0\" border=\"0\" src=\"http://ads.pheedo.com/img.phdo?s=a9bd299e6989001905d179c41b85ffb9&amp;p=1\"></a>"
+            },
+            "author": "By JEFF ZELENY and JIM RUTENBERG",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+                "title": "NYT &gt; Home Page",
+                "htmlUrl": "http://www.nytimes.com/pages/index.html?partner=rss&emc=rss"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332208358303",
+            "timestampUsec": "1332208358303699",
+            "id": "tag:google.com,2005:reader/item/23a02296dcd625bc",
+            "categories": [
+                "user/12741052575449821559/label/News",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/state/com.google/fresh",
+                "Defense and Military Forces",
+                "Afghanistan War (2001- )",
+                "Courts-Martial",
+                "Bales, Robert",
+                "CBS Corporation|CBS|NYSE"
+            ],
+            "title": "Bales Court-Martial Could Be Lengthy",
+            "published": 1332211207,
+            "updated": 1332211207,
+            "alternate": [
+                {
+                    "href": "http://feeds.nytimes.com/click.phdo?i=22d68004f7b83b891bd4960ae3a16a50",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "Once preliminary charges are announced against Staff Sgt. Robert Bales, suspected of killing 16 Afghans, the military justice system will proceed deliberately.<br style=\"clear:both\">\n<br style=\"clear:both\">\n<a href=\"http://ads.pheedo.com/click.phdo?s=22d68004f7b83b891bd4960ae3a16a50&amp;p=1\"><img alt=\"\" style=\"border:0\" border=\"0\" src=\"http://ads.pheedo.com/img.phdo?s=22d68004f7b83b891bd4960ae3a16a50&amp;p=1\"></a>"
+            },
+            "author": "By JOHN SCHWARTZ",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+                "title": "NYT &gt; Home Page",
+                "htmlUrl": "http://www.nytimes.com/pages/index.html?partner=rss&emc=rss"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332208358303",
+            "timestampUsec": "1332208358303261",
+            "id": "tag:google.com,2005:reader/item/b75ef8d75f93c48f",
+            "categories": [
+                "user/12741052575449821559/label/News",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/state/com.google/fresh",
+                "New York Mets",
+                "Wilpon, Fred",
+                "Katz, Saul B",
+                "Madoff, Bernard L",
+                "Mergers, Acquisitions and Divestitures",
+                "Suits and Litigation",
+                "Bank of America Corporation|BAC|NYSE"
+            ],
+            "title": "Analysis : After a Settlement, the Mets and Trustee Irving H. Picard Become Allies",
+            "published": 1332211743,
+            "updated": 1332211743,
+            "alternate": [
+                {
+                    "href": "http://feeds.nytimes.com/click.phdo?i=ee3bc259620c940ad83245d0a252c38b",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "After the Mets’ settlement with Irving H. Picard, the trustee for Bernard L. Madoff’s victims, Mr. Picard can help the team by recouping up to $178 million for the club from so-called net winners.<br style=\"clear:both\">\n<br style=\"clear:both\">\n<a href=\"http://ads.pheedo.com/click.phdo?s=ee3bc259620c940ad83245d0a252c38b&amp;p=1\"><img alt=\"\" style=\"border:0\" border=\"0\" src=\"http://ads.pheedo.com/img.phdo?s=ee3bc259620c940ad83245d0a252c38b&amp;p=1\"></a>"
+            },
+            "author": "By KEN BELSON",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+                "title": "NYT &gt; Home Page",
+                "htmlUrl": "http://www.nytimes.com/pages/index.html?partner=rss&emc=rss"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332208342517",
+            "timestampUsec": "1332208342517939",
+            "id": "tag:google.com,2005:reader/item/25fe2ca0cc42c8f8",
+            "categories": [
+                "user/12741052575449821559/label/Sports",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/state/com.google/fresh",
+                "Baseball"
+            ],
+            "title": "Baseball. No. 11 State Travels to East Carolina Tuesday",
+            "published": 1332206487,
+            "updated": 1332206487,
+            "enclosure": [
+                {
+                    "href": "http://grfx.cstv.com/photos/schools/ncst/sports/m-basebl/auto_action/7592390.jpeg",
+                    "type": "image/jpeg",
+                    "length": "43528"
+                }
+            ],
+            "alternate": [
+                {
+                    "href": "http://onlyfans.cstv.com/schools/ncst/sports/m-basebl/spec-rel/031912aaa.html",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "NC State rose up the national rankings released Monday after a sweep of No. 24 Wake Forest. The Wolfpack carries a six-game winning streak to ECU."
+            },
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://www.gopack.com/headline-rss.xml",
+                "title": "NC State Wolfpack News -- www.gopack.com",
+                "htmlUrl": "http://www.gopack.com"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332208340783",
+            "timestampUsec": "1332208340783640",
+            "id": "tag:google.com,2005:reader/item/386c17218ffa4841",
+            "categories": [
+                "user/12741052575449821559/label/Sports",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/state/com.google/fresh"
+            ],
+            "title": "QB Garrard signs one-year deal with Dolphins",
+            "published": 1332211053,
+            "updated": 1332211053,
+            "alternate": [
+                {
+                    "href": "http://espn.go.com/nfl/story/_/id/7711362/2012-nfl-free-agency-miami-dolphins-sign-david-garrard-one-year-deal",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "<a href=\"http://api.tweetmeme.com/share?url=http://espn.go.com/nfl/story/_/id/7711362/2012-nfl-free-agency-miami-dolphins-sign-david-garrard-one-year-deal&amp;service=bit.ly&amp;source=espn\"><img style=\"padding-left:10px\" align=\"right\" border=\"0\" src=\"http://api.tweetmeme.com/imagebutton.gif?url=http://espn.go.com/nfl/story/_/id/7711362/2012-nfl-free-agency-miami-dolphins-sign-david-garrard-one-year-deal\" height=\"49\" width=\"41\"></a>Quarterback David Garrard signed a one-year contract Monday with the Miami Dolphins and said he was told he'll be given a shot at the starting job."
+            },
+            "author": "Associated Press",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://sports-ak.espn.go.com/espn/rss/news",
+                "title": "ESPN.com",
+                "htmlUrl": "http://espn.go.com/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332208332244",
+            "timestampUsec": "1332208332244616",
+            "id": "tag:google.com,2005:reader/item/9814f1d31a4bd665",
+            "categories": [
+                "user/12741052575449821559/label/News",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/state/com.google/fresh",
+                "topNews"
+            ],
+            "title": "Apple rewards investors with dividend, share buyback",
+            "published": 1332207193,
+            "updated": 1332207193,
+            "alternate": [
+                {
+                    "href": "http://feeds.reuters.com/~r/reuters/topNews/~3/he2OBsAFLaE/us-apple-idUSBRE82F03N20120320",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "SAN FRANCISCO (Reuters) - Apple Inc CEO Tim Cook, moving swiftly after taking over from late Silicon Valley icon Steve Jobs, fulfilled a longstanding desire of investors by initiating a quarterly dividend and share buyback that will pay out $45 billion over three years.<div>\n<a href=\"http://feeds.reuters.com/~ff/reuters/topNews?a=he2OBsAFLaE:ML_JvHwkILw:yIl2AUoC8zA\"><img src=\"http://feeds.feedburner.com/~ff/reuters/topNews?d=yIl2AUoC8zA\" border=\"0\"></a> <a href=\"http://feeds.reuters.com/~ff/reuters/topNews?a=he2OBsAFLaE:ML_JvHwkILw:V_sGLiPBpWU\"><img src=\"http://feeds.feedburner.com/~ff/reuters/topNews?i=he2OBsAFLaE:ML_JvHwkILw:V_sGLiPBpWU\" border=\"0\"></a> <a href=\"http://feeds.reuters.com/~ff/reuters/topNews?a=he2OBsAFLaE:ML_JvHwkILw:-BTjWOF_DHI\"><img src=\"http://feeds.feedburner.com/~ff/reuters/topNews?i=he2OBsAFLaE:ML_JvHwkILw:-BTjWOF_DHI\" border=\"0\"></a>\n</div><img src=\"http://feeds.feedburner.com/~r/reuters/topNews/~4/he2OBsAFLaE\" height=\"1\" width=\"1\">"
+            },
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://feeds.reuters.com/reuters/topNews?irpc=69",
+                "title": "Reuters: Top News",
+                "htmlUrl": "http://www.reuters.com"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332208195431",
+            "timestampUsec": "1332208195431148",
+            "id": "tag:google.com,2005:reader/item/067c7c27b96ab8a8",
+            "categories": [
+                "user/12741052575449821559/label/News",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/state/com.google/fresh"
+            ],
+            "title": "N. Korea invites nuclear inspectors back",
+            "published": 1332200506,
+            "updated": 1332200506,
+            "alternate": [
+                {
+                    "href": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/draxnc2Xtxw/index.html",
+                    "type": "text/html"
+                }
+            ],
+            "summary": {
+                "direction": "ltr",
+                "content": "North Korea has invited the International Atomic Energy Agency to return, nearly three years after it kicked U.N. nuclear inspectors out of the country, the IAEA said Monday.<div>\n<a href=\"http://rss.cnn.com/~ff/rss/cnn_topstories?a=draxnc2Xtxw:d6bPZL1rCY0:yIl2AUoC8zA\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_topstories?d=yIl2AUoC8zA\" border=\"0\"></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_topstories?a=draxnc2Xtxw:d6bPZL1rCY0:7Q72WNTAKBA\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_topstories?d=7Q72WNTAKBA\" border=\"0\"></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_topstories?a=draxnc2Xtxw:d6bPZL1rCY0:V_sGLiPBpWU\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_topstories?i=draxnc2Xtxw:d6bPZL1rCY0:V_sGLiPBpWU\" border=\"0\"></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_topstories?a=draxnc2Xtxw:d6bPZL1rCY0:qj6IDK7rITs\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_topstories?d=qj6IDK7rITs\" border=\"0\"></a> <a href=\"http://rss.cnn.com/~ff/rss/cnn_topstories?a=draxnc2Xtxw:d6bPZL1rCY0:gIN9vFwOqvQ\"><img src=\"http://feeds.feedburner.com/~ff/rss/cnn_topstories?i=draxnc2Xtxw:d6bPZL1rCY0:gIN9vFwOqvQ\" border=\"0\"></a>\n</div><img src=\"http://feeds.feedburner.com/~r/rss/cnn_topstories/~4/draxnc2Xtxw\" height=\"1\" width=\"1\">"
+            },
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://rss.cnn.com/rss/cnn_topstories.rss",
+                "title": "CNN.com",
+                "htmlUrl": "http://www.cnn.com/?eref=rss_topstories"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332208032591",
+            "timestampUsec": "1332208032591905",
+            "id": "tag:google.com,2005:reader/item/e66567d590f07aad",
+            "categories": [
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/label/Hip Hop",
+                "user/12741052575449821559/state/com.google/fresh",
+                "Video",
+                "action bronson",
+                "Party Supplies"
+            ],
+            "title": "Action Bronson &amp; Party Supplies Speak On Blue Chips (Video)",
+            "published": 1332205724,
+            "updated": 1332205724,
+            "alternate": [
+                {
+                    "href": "http://feedproxy.google.com/~r/2dopeboyz/~3/y0XoowogI-o/",
+                    "type": "text/html"
+                }
+            ],
+            "content": {
+                "direction": "ltr",
+                "content": "<p><iframe src=\"http://reader.googleusercontent.com/reader/embediframe?src=http://www.youtube-nocookie.com/v/BB4PEKp2Vnk?version%3D3%26hl%3Den_US&amp;width=500&amp;height=284\" width=\"500\" height=\"284\"></iframe><br>\n<small>Action Bronson</small></p>\n<p>Bronson and PS spoke to Reebok Classics about their collaborative effort that dropped last week.</p>\n<p><span></span></p>\n<p><iframe src=\"http://reader.googleusercontent.com/reader/embediframe?src=http://www.youtube-nocookie.com/v/v5pIecNbfDg?version%3D3%26hl%3Den_US&amp;width=500&amp;height=284\" width=\"500\" height=\"284\"></iframe><br>\n<small>Party Supplies</small></p>\n<p><strong>PREVIOUS</strong>: <a href=\"http://www.2dopeboyz.com/2012/03/12/action-bronson-party-supplies-blue-chips-mixtape/\">Action Bronson &amp; Party Supplies – Blue Chips (Mixtape)</a></p>"
+            },
+            "author": "Meka",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://2dopeboyz.okayplayer.com/feed/",
+                "title": "2dopeboyz",
+                "htmlUrl": "http://www.2dopeboyz.com"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332208032591",
+            "timestampUsec": "1332208032591418",
+            "id": "tag:google.com,2005:reader/item/dd1513b5742651e2",
+            "categories": [
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/label/Hip Hop",
+                "user/12741052575449821559/state/com.google/fresh",
+                "Mixtapes/Albums",
+                "dj getlive",
+                "j dilla"
+            ],
+            "title": "DJ Getlive’s DAF6 J Dilla Mix",
+            "published": 1332205328,
+            "updated": 1332205328,
+            "alternate": [
+                {
+                    "href": "http://feedproxy.google.com/~r/2dopeboyz/~3/6G7ejbDsgDI/",
+                    "type": "text/html"
+                }
+            ],
+            "content": {
+                "direction": "ltr",
+                "content": "<p><img src=\"http://www.2dopeboyz.com/wp-content/uploads/2012/03/DAF6getlive.jpg\" alt=\"\" title=\"DAF6getlive\" width=\"500\" height=\"500\"></p>\n<p>Back in February New York’s Brooklyn Bowl was the place for the 6th annual Donuts Are Forever party. DJ Getlive was on deck as one of the guest turntablists, and he recorded his live mix. Check it out down bottom.</p>\n<p><span></span></p>\n<blockquote><p>1. Q-Tip f. Busta Rhymes – N.T.<br>\n2. Billy Paul – Let The Dollars Circulate<br>\n3. Steve Spacek – Dollar<br>\n4. Masta Ace Inc. – Sittin On Chrome (The Ummah Remix)<br>\n5. J Dilla – Stepson of the Clapper<br>\n6. Mountain – Long Red<br>\n7. Eric B. &amp; Rakim – Eric B. is President<br>\n8. J Dilla – Glazed<br>\n9. J Dilla – Won’t Do<br>\n10. Common – Love Is<br>\n11. The Trammps – Rubberband<br>\n12. J Dilla – Dilla Says Go<br>\n13. Jay Dee – F*ck the Police<br>\n14. J Dilla – Two Can Win<br>\n15. Jackson 5 – Dancing Machine<br>\n16. Q-Tip – Move<br>\n17. A Tribe Called Quest – 1nce Again/ Da Booty<br>\n18. Jay Dee – Rico Suave Bossa Nova<br>\n19. The Isley Brothers – Living For the Love in You<br>\n20. Jaylib – Starz<br>\n21. J Dilla – Love f. Pharoahe Monch<br>\n22. Common – The Light<br>\n23. J Dilla – Lightworks f. Talib Kweli &amp; Q-Tip<br>\n24. Raekwon – 10 Bricks<br>\n25. Slum Village – Players<br>\n26. Towa Tei – Technova (La Em Copacabana)<br>\n27. A Tribe Called Quest – Find A Way<br>\n28. Janet Jackson f. Q-Tip – Got Til It’s Gone<br>\n29. Q-Tip – Let’s Ride<br>\n30. Jay Dee – B.B.E.<br>\n31. Mantronix – King of the Beats<br>\n32. Dionne Warwick – You’re Gonna Want Me Back<br>\n33. J Dilla – Stop<br>\n34. Jay Dee – It’s Like That<br>\n35. J Dilla – Geek Down<br>\n36. ESG – UFO<br>\n37. J Dilla – Nothing Like This<br>\n38. The Pharcyde – She Said (Jay Dee Remix)</p></blockquote>\n<p></p>"
+            },
+            "author": "Meka",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://2dopeboyz.okayplayer.com/feed/",
+                "title": "2dopeboyz",
+                "htmlUrl": "http://www.2dopeboyz.com"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332207948688",
+            "timestampUsec": "1332207948688339",
+            "id": "tag:google.com,2005:reader/item/8ab3f36bb7787c15",
+            "categories": [
+                "user/12741052575449821559/label/Gadget Blogs",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/label/15 Best",
+                "user/12741052575449821559/state/com.google/fresh"
+            ],
+            "title": "Tek Robotic Mobilization Device helps paraplegics stand, huge improvement over the wheelchair",
+            "published": 1332207725,
+            "updated": 1332207725,
+            "alternate": [
+                {
+                    "href": "http://www.theverge.com/2012/3/19/2885741/tek-rmd-paraplegic-motorized-standing-movement-device",
+                    "type": "text/html"
+                }
+            ],
+            "content": {
+                "direction": "ltr",
+                "content": "<img alt=\"Tek RMD\" height=\"420\" src=\"http://cdn2.sbnation.com/entry_photo_images/3432190/tek-rmd-2_large.jpg\" width=\"630\">\n  \n\n\n\n\n\n  <p>If you&#39;ve ever spent any significant amount of time with a wheelchair user, you&#39;ll know that the tool isn&#39;t the perfect design — it often gets in the way, and it is difficult to get in and out of. The Tek RMD (Robotic Mobilization Device) looks to be a major improvement over the years-old wheelchair design. It&#39;s a &quot;motorized standing movement device,&quot; and while it&#39;s not the first such product that&#39;ll hold a paraplegic in a standing position, the makers say it&#39;s the smallest of its kind. Size is important for a device like this; the world still is full of places that aren&#39;t designed for those who are paralyzed, and at 36cm wide and 62cm long (a third the size of a typical wheelchair), it looks much easier to squeeze through aisles at...</p>\n  <p>\n    <a href=\"http://www.theverge.com/2012/3/19/2885741/tek-rmd-paraplegic-motorized-standing-movement-device\">Continue reading…</a>\n  </p>"
+            },
+            "author": "Dante D'Orazio",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://www.theverge.com/rss/index.xml",
+                "title": "The Verge -  All Posts",
+                "htmlUrl": "http://www.theverge.com/"
+            }
+        },
+        {
+            "crawlTimeMsec": "1332207879182",
+            "timestampUsec": "1332207879182886",
+            "id": "tag:google.com,2005:reader/item/d008a5cd942bef0f",
+            "categories": [
+                "user/12741052575449821559/label/Android Blogs",
+                "user/12741052575449821559/state/com.google/reading-list",
+                "user/12741052575449821559/state/com.google/fresh",
+                "Applications",
+                "Tips & Tricks",
+                "XPERIA Play"
+            ],
+            "title": "PSXPeria Lets You Rip and Convert Your Old PS1 Games For Use On Xperia Play",
+            "published": 1332207076,
+            "updated": 1332207076,
+            "alternate": [
+                {
+                    "href": "http://phandroid.com/2012/03/19/psxperia-lets-you-rip-and-convert-your-old-ps1-games-for-use-on-xperia-play/",
+                    "type": "text/html"
+                }
+            ],
+            "content": {
+                "direction": "ltr",
+                "content": "<p>\n\t<img src=\"http://phandroid.s3.amazonaws.com/wp-content/uploads/2012/03/vagrantstory-150x150.jpg\" alt=\"This image has no alt text\">\n\t</p><p><a href=\"http://phandroid.com/2011/08/08/xperia-plays-playstation-one-emulator-reversed-engineered-to-play-custom-isos-video/sony-ericsson-xperia-play-2/\" rel=\"attachment wp-att-60180\"><img title=\"Sony-ericsson-xperia-play\" src=\"http://phandroid.s3.amazonaws.com/wp-content/uploads/2011/08/Sony-ericsson-xperia-play-550x488.jpg\" alt=\"\" width=\"550\" height=\"488\"></a></p>\n<p>As a self-proclaimed gaming addict, one of the problems I’ve noticed throughout the years is that I often don’t have the time I once had back in my high school days, to just sit down and do some serious console gaming. This has left me with a surplus of great titles dating all the way back to the PS1, that I’ve been meaning to play, but really just never had the time (seeing how I’m always out and about). Titles like Strider 2, Tomba!, Final Fantasy 9 or Vagrant Story are just a few that I wish I could revisit and play in their entirety.</p>\n<p>Well, a few developers over on XDA are looking to bring back the old-school PS1 classics with the PSXPeria Project for the Sony Ericsson Xperia Play. Using the PSPeria software, you can now legally rip and and convert your old PS1 games into an image that is playable on the Xperia Play with absolutely <em>no</em> root required. Pretty sweet, right?</p>\n<p>There’s an ever growing list of games that have been tested and are 100% compatible on the Xperia Play, as well as a video tutorial for anyone who may need a walkthrough on how to convert their old games. I checked my local Craigslist ads and Xperia Plays are running between $150-$200. Think I might pick one up for when I eventually make the jump to AT&amp;T. Can’t think of a better way to kill some time than with some of gaming’s greatest.</p>\n<p>[<a href=\"http://forum.xda-developers.com/showthread.php?t=1530228\">PSPeria Project Thread</a>]</p>\n<p> </p>"
+            },
+            "author": "Chris Chavez",
+            "likingUsers": [],
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://phandroid.com/feed/",
+                "title": "Android Phone Fans",
+                "htmlUrl": "http://phandroid.com"
+            }
+        }
+    ]
+}
